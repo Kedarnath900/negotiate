@@ -1,0 +1,23 @@
+{
+  "currency": "INR",
+  "price": {
+    "target_tolerance_pct": 2,
+    "counter_max_pct": 10,
+    "reject_above_pct": 25
+  },
+  "delivery": {
+    "max_days": 20,
+    "counter_max_extra_days": 10
+  },
+  "payment": {
+    "minimum_days": 30,
+    "advance_payment_allowed": false
+  },
+  "risk": {
+    "escalate_if_missing_fields": true,
+    "escalate_if_advance_requested": true
+  },
+  "approval": {
+    "human_approval_required": true
+  }
+}

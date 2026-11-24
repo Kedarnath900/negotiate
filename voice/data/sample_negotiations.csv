@@ -1,0 +1,2001 @@
+negotiation_id,supplier,category,quoted_price,target_price,delivery_days,payment_days,outcome,notes
+NEG-0001,Apex Electronics,Electronics,1000.0,1000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-0002,Northstar Components,Packaging,1111.0,1100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-0003,BrightPack Ltd,Logistics,1224.0,1200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-0004,RapidMove Logistics,Raw materials,1339.0,1300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-0005,Core Materials,IT services,1456.0,1400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-0006,Delta Circuits,Electronics,1575.0,1500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-0007,GreenWrap,Packaging,1696.0,1600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-0008,Metro Freight,Logistics,1819.0,1700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-0009,Nova Components,Raw materials,1944.0,1800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-0010,Pioneer Polymers,IT services,2071.0,1900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-0011,Apex Electronics,Electronics,2200.0,2000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-0012,Northstar Components,Packaging,2331.0,2100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-0013,BrightPack Ltd,Logistics,2464.0,2200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-0014,RapidMove Logistics,Raw materials,2599.0,2300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-0015,Core Materials,IT services,2736.0,2400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-0016,Delta Circuits,Electronics,2875.0,2500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-0017,GreenWrap,Packaging,3016.0,2600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-0018,Metro Freight,Logistics,3159.0,2700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-0019,Nova Components,Raw materials,3304.0,2800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-0020,Pioneer Polymers,IT services,3451.0,2900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-0021,Apex Electronics,Electronics,1200.0,1000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-0022,Northstar Components,Packaging,1331.0,1100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-0023,BrightPack Ltd,Logistics,1464.0,1200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-0024,RapidMove Logistics,Raw materials,1599.0,1300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-0025,Core Materials,IT services,1736.0,1400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-0026,Delta Circuits,Electronics,1875.0,1500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-0027,GreenWrap,Packaging,2016.0,1600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-0028,Metro Freight,Logistics,2159.0,1700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-0029,Nova Components,Raw materials,2304.0,1800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-0030,Pioneer Polymers,IT services,2451.0,1900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-0031,Apex Electronics,Electronics,2000.0,2000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-0032,Northstar Components,Packaging,2121.0,2100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-0033,BrightPack Ltd,Logistics,2244.0,2200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-0034,RapidMove Logistics,Raw materials,2369.0,2300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-0035,Core Materials,IT services,2496.0,2400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-0036,Delta Circuits,Electronics,2625.0,2500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-0037,GreenWrap,Packaging,2756.0,2600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-0038,Metro Freight,Logistics,2889.0,2700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-0039,Nova Components,Raw materials,3024.0,2800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-0040,Pioneer Polymers,IT services,3161.0,2900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-0041,Apex Electronics,Electronics,1100.0,1000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-0042,Northstar Components,Packaging,1221.0,1100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-0043,BrightPack Ltd,Logistics,1344.0,1200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-0044,RapidMove Logistics,Raw materials,1469.0,1300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-0045,Core Materials,IT services,1596.0,1400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-0046,Delta Circuits,Electronics,1725.0,1500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-0047,GreenWrap,Packaging,1856.0,1600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-0048,Metro Freight,Logistics,1989.0,1700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-0049,Nova Components,Raw materials,2124.0,1800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-0050,Pioneer Polymers,IT services,2261.0,1900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-0051,Apex Electronics,Electronics,2400.0,2000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-0052,Northstar Components,Packaging,2541.0,2100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-0053,BrightPack Ltd,Logistics,2684.0,2200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-0054,RapidMove Logistics,Raw materials,2829.0,2300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-0055,Core Materials,IT services,2976.0,2400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-0056,Delta Circuits,Electronics,3125.0,2500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-0057,GreenWrap,Packaging,3276.0,2600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-0058,Metro Freight,Logistics,3429.0,2700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-0059,Nova Components,Raw materials,3584.0,2800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-0060,Pioneer Polymers,IT services,3741.0,2900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-0061,Apex Electronics,Electronics,1000.0,1000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-0062,Northstar Components,Packaging,1111.0,1100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-0063,BrightPack Ltd,Logistics,1224.0,1200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-0064,RapidMove Logistics,Raw materials,1339.0,1300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-0065,Core Materials,IT services,1456.0,1400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-0066,Delta Circuits,Electronics,1575.0,1500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-0067,GreenWrap,Packaging,1696.0,1600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-0068,Metro Freight,Logistics,1819.0,1700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-0069,Nova Components,Raw materials,1944.0,1800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-0070,Pioneer Polymers,IT services,2071.0,1900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-0071,Apex Electronics,Electronics,2200.0,2000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-0072,Northstar Components,Packaging,2331.0,2100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-0073,BrightPack Ltd,Logistics,2464.0,2200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-0074,RapidMove Logistics,Raw materials,2599.0,2300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-0075,Core Materials,IT services,2736.0,2400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-0076,Delta Circuits,Electronics,2875.0,2500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-0077,GreenWrap,Packaging,3016.0,2600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-0078,Metro Freight,Logistics,3159.0,2700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-0079,Nova Components,Raw materials,3304.0,2800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-0080,Pioneer Polymers,IT services,3451.0,2900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-0081,Apex Electronics,Electronics,1200.0,1000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-0082,Northstar Components,Packaging,1331.0,1100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-0083,BrightPack Ltd,Logistics,1464.0,1200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-0084,RapidMove Logistics,Raw materials,1599.0,1300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-0085,Core Materials,IT services,1736.0,1400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-0086,Delta Circuits,Electronics,1875.0,1500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-0087,GreenWrap,Packaging,2016.0,1600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-0088,Metro Freight,Logistics,2159.0,1700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-0089,Nova Components,Raw materials,2304.0,1800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-0090,Pioneer Polymers,IT services,2451.0,1900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-0091,Apex Electronics,Electronics,2000.0,2000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-0092,Northstar Components,Packaging,2121.0,2100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-0093,BrightPack Ltd,Logistics,2244.0,2200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-0094,RapidMove Logistics,Raw materials,2369.0,2300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-0095,Core Materials,IT services,2496.0,2400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-0096,Delta Circuits,Electronics,2625.0,2500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-0097,GreenWrap,Packaging,2756.0,2600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-0098,Metro Freight,Logistics,2889.0,2700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-0099,Nova Components,Raw materials,3024.0,2800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-0100,Pioneer Polymers,IT services,3161.0,2900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-0101,Apex Electronics,Electronics,1100.0,1000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-0102,Northstar Components,Packaging,1221.0,1100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-0103,BrightPack Ltd,Logistics,1344.0,1200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-0104,RapidMove Logistics,Raw materials,1469.0,1300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-0105,Core Materials,IT services,1596.0,1400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-0106,Delta Circuits,Electronics,1725.0,1500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-0107,GreenWrap,Packaging,1856.0,1600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-0108,Metro Freight,Logistics,1989.0,1700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-0109,Nova Components,Raw materials,2124.0,1800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-0110,Pioneer Polymers,IT services,2261.0,1900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-0111,Apex Electronics,Electronics,2400.0,2000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-0112,Northstar Components,Packaging,2541.0,2100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-0113,BrightPack Ltd,Logistics,2684.0,2200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-0114,RapidMove Logistics,Raw materials,2829.0,2300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-0115,Core Materials,IT services,2976.0,2400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-0116,Delta Circuits,Electronics,3125.0,2500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-0117,GreenWrap,Packaging,3276.0,2600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-0118,Metro Freight,Logistics,3429.0,2700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-0119,Nova Components,Raw materials,3584.0,2800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-0120,Pioneer Polymers,IT services,3741.0,2900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-0121,Apex Electronics,Electronics,1000.0,1000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-0122,Northstar Components,Packaging,1111.0,1100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-0123,BrightPack Ltd,Logistics,1224.0,1200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-0124,RapidMove Logistics,Raw materials,1339.0,1300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-0125,Core Materials,IT services,1456.0,1400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-0126,Delta Circuits,Electronics,1575.0,1500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-0127,GreenWrap,Packaging,1696.0,1600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-0128,Metro Freight,Logistics,1819.0,1700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-0129,Nova Components,Raw materials,1944.0,1800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-0130,Pioneer Polymers,IT services,2071.0,1900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-0131,Apex Electronics,Electronics,2200.0,2000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-0132,Northstar Components,Packaging,2331.0,2100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-0133,BrightPack Ltd,Logistics,2464.0,2200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-0134,RapidMove Logistics,Raw materials,2599.0,2300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-0135,Core Materials,IT services,2736.0,2400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-0136,Delta Circuits,Electronics,2875.0,2500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-0137,GreenWrap,Packaging,3016.0,2600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-0138,Metro Freight,Logistics,3159.0,2700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-0139,Nova Components,Raw materials,3304.0,2800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-0140,Pioneer Polymers,IT services,3451.0,2900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-0141,Apex Electronics,Electronics,1200.0,1000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-0142,Northstar Components,Packaging,1331.0,1100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-0143,BrightPack Ltd,Logistics,1464.0,1200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-0144,RapidMove Logistics,Raw materials,1599.0,1300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-0145,Core Materials,IT services,1736.0,1400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-0146,Delta Circuits,Electronics,1875.0,1500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-0147,GreenWrap,Packaging,2016.0,1600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-0148,Metro Freight,Logistics,2159.0,1700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-0149,Nova Components,Raw materials,2304.0,1800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-0150,Pioneer Polymers,IT services,2451.0,1900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-0151,Apex Electronics,Electronics,2000.0,2000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-0152,Northstar Components,Packaging,2121.0,2100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-0153,BrightPack Ltd,Logistics,2244.0,2200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-0154,RapidMove Logistics,Raw materials,2369.0,2300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-0155,Core Materials,IT services,2496.0,2400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-0156,Delta Circuits,Electronics,2625.0,2500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-0157,GreenWrap,Packaging,2756.0,2600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-0158,Metro Freight,Logistics,2889.0,2700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-0159,Nova Components,Raw materials,3024.0,2800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-0160,Pioneer Polymers,IT services,3161.0,2900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-0161,Apex Electronics,Electronics,1100.0,1000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-0162,Northstar Components,Packaging,1221.0,1100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-0163,BrightPack Ltd,Logistics,1344.0,1200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-0164,RapidMove Logistics,Raw materials,1469.0,1300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-0165,Core Materials,IT services,1596.0,1400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-0166,Delta Circuits,Electronics,1725.0,1500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-0167,GreenWrap,Packaging,1856.0,1600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-0168,Metro Freight,Logistics,1989.0,1700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-0169,Nova Components,Raw materials,2124.0,1800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-0170,Pioneer Polymers,IT services,2261.0,1900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-0171,Apex Electronics,Electronics,2400.0,2000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-0172,Northstar Components,Packaging,2541.0,2100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-0173,BrightPack Ltd,Logistics,2684.0,2200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-0174,RapidMove Logistics,Raw materials,2829.0,2300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-0175,Core Materials,IT services,2976.0,2400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-0176,Delta Circuits,Electronics,3125.0,2500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-0177,GreenWrap,Packaging,3276.0,2600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-0178,Metro Freight,Logistics,3429.0,2700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-0179,Nova Components,Raw materials,3584.0,2800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-0180,Pioneer Polymers,IT services,3741.0,2900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-0181,Apex Electronics,Electronics,1000.0,1000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-0182,Northstar Components,Packaging,1111.0,1100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-0183,BrightPack Ltd,Logistics,1224.0,1200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-0184,RapidMove Logistics,Raw materials,1339.0,1300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-0185,Core Materials,IT services,1456.0,1400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-0186,Delta Circuits,Electronics,1575.0,1500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-0187,GreenWrap,Packaging,1696.0,1600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-0188,Metro Freight,Logistics,1819.0,1700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-0189,Nova Components,Raw materials,1944.0,1800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-0190,Pioneer Polymers,IT services,2071.0,1900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-0191,Apex Electronics,Electronics,2200.0,2000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-0192,Northstar Components,Packaging,2331.0,2100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-0193,BrightPack Ltd,Logistics,2464.0,2200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-0194,RapidMove Logistics,Raw materials,2599.0,2300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-0195,Core Materials,IT services,2736.0,2400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-0196,Delta Circuits,Electronics,2875.0,2500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-0197,GreenWrap,Packaging,3016.0,2600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-0198,Metro Freight,Logistics,3159.0,2700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-0199,Nova Components,Raw materials,3304.0,2800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-0200,Pioneer Polymers,IT services,3451.0,2900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-0201,Apex Electronics,Electronics,1200.0,1000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-0202,Northstar Components,Packaging,1331.0,1100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-0203,BrightPack Ltd,Logistics,1464.0,1200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-0204,RapidMove Logistics,Raw materials,1599.0,1300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-0205,Core Materials,IT services,1736.0,1400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-0206,Delta Circuits,Electronics,1875.0,1500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-0207,GreenWrap,Packaging,2016.0,1600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-0208,Metro Freight,Logistics,2159.0,1700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-0209,Nova Components,Raw materials,2304.0,1800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-0210,Pioneer Polymers,IT services,2451.0,1900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-0211,Apex Electronics,Electronics,2000.0,2000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-0212,Northstar Components,Packaging,2121.0,2100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-0213,BrightPack Ltd,Logistics,2244.0,2200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-0214,RapidMove Logistics,Raw materials,2369.0,2300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-0215,Core Materials,IT services,2496.0,2400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-0216,Delta Circuits,Electronics,2625.0,2500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-0217,GreenWrap,Packaging,2756.0,2600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-0218,Metro Freight,Logistics,2889.0,2700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-0219,Nova Components,Raw materials,3024.0,2800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-0220,Pioneer Polymers,IT services,3161.0,2900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-0221,Apex Electronics,Electronics,1100.0,1000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-0222,Northstar Components,Packaging,1221.0,1100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-0223,BrightPack Ltd,Logistics,1344.0,1200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-0224,RapidMove Logistics,Raw materials,1469.0,1300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-0225,Core Materials,IT services,1596.0,1400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-0226,Delta Circuits,Electronics,1725.0,1500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-0227,GreenWrap,Packaging,1856.0,1600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-0228,Metro Freight,Logistics,1989.0,1700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-0229,Nova Components,Raw materials,2124.0,1800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-0230,Pioneer Polymers,IT services,2261.0,1900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-0231,Apex Electronics,Electronics,2400.0,2000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-0232,Northstar Components,Packaging,2541.0,2100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-0233,BrightPack Ltd,Logistics,2684.0,2200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-0234,RapidMove Logistics,Raw materials,2829.0,2300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-0235,Core Materials,IT services,2976.0,2400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-0236,Delta Circuits,Electronics,3125.0,2500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-0237,GreenWrap,Packaging,3276.0,2600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-0238,Metro Freight,Logistics,3429.0,2700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-0239,Nova Components,Raw materials,3584.0,2800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-0240,Pioneer Polymers,IT services,3741.0,2900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-0241,Apex Electronics,Electronics,1000.0,1000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-0242,Northstar Components,Packaging,1111.0,1100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-0243,BrightPack Ltd,Logistics,1224.0,1200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-0244,RapidMove Logistics,Raw materials,1339.0,1300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-0245,Core Materials,IT services,1456.0,1400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-0246,Delta Circuits,Electronics,1575.0,1500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-0247,GreenWrap,Packaging,1696.0,1600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-0248,Metro Freight,Logistics,1819.0,1700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-0249,Nova Components,Raw materials,1944.0,1800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-0250,Pioneer Polymers,IT services,2071.0,1900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-0251,Apex Electronics,Electronics,2200.0,2000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-0252,Northstar Components,Packaging,2331.0,2100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-0253,BrightPack Ltd,Logistics,2464.0,2200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-0254,RapidMove Logistics,Raw materials,2599.0,2300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-0255,Core Materials,IT services,2736.0,2400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-0256,Delta Circuits,Electronics,2875.0,2500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-0257,GreenWrap,Packaging,3016.0,2600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-0258,Metro Freight,Logistics,3159.0,2700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-0259,Nova Components,Raw materials,3304.0,2800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-0260,Pioneer Polymers,IT services,3451.0,2900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-0261,Apex Electronics,Electronics,1200.0,1000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-0262,Northstar Components,Packaging,1331.0,1100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-0263,BrightPack Ltd,Logistics,1464.0,1200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-0264,RapidMove Logistics,Raw materials,1599.0,1300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-0265,Core Materials,IT services,1736.0,1400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-0266,Delta Circuits,Electronics,1875.0,1500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-0267,GreenWrap,Packaging,2016.0,1600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-0268,Metro Freight,Logistics,2159.0,1700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-0269,Nova Components,Raw materials,2304.0,1800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-0270,Pioneer Polymers,IT services,2451.0,1900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-0271,Apex Electronics,Electronics,2000.0,2000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-0272,Northstar Components,Packaging,2121.0,2100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-0273,BrightPack Ltd,Logistics,2244.0,2200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-0274,RapidMove Logistics,Raw materials,2369.0,2300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-0275,Core Materials,IT services,2496.0,2400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-0276,Delta Circuits,Electronics,2625.0,2500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-0277,GreenWrap,Packaging,2756.0,2600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-0278,Metro Freight,Logistics,2889.0,2700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-0279,Nova Components,Raw materials,3024.0,2800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-0280,Pioneer Polymers,IT services,3161.0,2900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-0281,Apex Electronics,Electronics,1100.0,1000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-0282,Northstar Components,Packaging,1221.0,1100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-0283,BrightPack Ltd,Logistics,1344.0,1200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-0284,RapidMove Logistics,Raw materials,1469.0,1300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-0285,Core Materials,IT services,1596.0,1400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-0286,Delta Circuits,Electronics,1725.0,1500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-0287,GreenWrap,Packaging,1856.0,1600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-0288,Metro Freight,Logistics,1989.0,1700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-0289,Nova Components,Raw materials,2124.0,1800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-0290,Pioneer Polymers,IT services,2261.0,1900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-0291,Apex Electronics,Electronics,2400.0,2000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-0292,Northstar Components,Packaging,2541.0,2100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-0293,BrightPack Ltd,Logistics,2684.0,2200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-0294,RapidMove Logistics,Raw materials,2829.0,2300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-0295,Core Materials,IT services,2976.0,2400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-0296,Delta Circuits,Electronics,3125.0,2500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-0297,GreenWrap,Packaging,3276.0,2600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-0298,Metro Freight,Logistics,3429.0,2700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-0299,Nova Components,Raw materials,3584.0,2800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-0300,Pioneer Polymers,IT services,3741.0,2900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-0301,Apex Electronics,Electronics,1000.0,1000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-0302,Northstar Components,Packaging,1111.0,1100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-0303,BrightPack Ltd,Logistics,1224.0,1200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-0304,RapidMove Logistics,Raw materials,1339.0,1300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-0305,Core Materials,IT services,1456.0,1400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-0306,Delta Circuits,Electronics,1575.0,1500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-0307,GreenWrap,Packaging,1696.0,1600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-0308,Metro Freight,Logistics,1819.0,1700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-0309,Nova Components,Raw materials,1944.0,1800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-0310,Pioneer Polymers,IT services,2071.0,1900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-0311,Apex Electronics,Electronics,2200.0,2000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-0312,Northstar Components,Packaging,2331.0,2100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-0313,BrightPack Ltd,Logistics,2464.0,2200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-0314,RapidMove Logistics,Raw materials,2599.0,2300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-0315,Core Materials,IT services,2736.0,2400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-0316,Delta Circuits,Electronics,2875.0,2500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-0317,GreenWrap,Packaging,3016.0,2600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-0318,Metro Freight,Logistics,3159.0,2700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-0319,Nova Components,Raw materials,3304.0,2800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-0320,Pioneer Polymers,IT services,3451.0,2900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-0321,Apex Electronics,Electronics,1200.0,1000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-0322,Northstar Components,Packaging,1331.0,1100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-0323,BrightPack Ltd,Logistics,1464.0,1200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-0324,RapidMove Logistics,Raw materials,1599.0,1300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-0325,Core Materials,IT services,1736.0,1400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-0326,Delta Circuits,Electronics,1875.0,1500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-0327,GreenWrap,Packaging,2016.0,1600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-0328,Metro Freight,Logistics,2159.0,1700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-0329,Nova Components,Raw materials,2304.0,1800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-0330,Pioneer Polymers,IT services,2451.0,1900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-0331,Apex Electronics,Electronics,2000.0,2000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-0332,Northstar Components,Packaging,2121.0,2100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-0333,BrightPack Ltd,Logistics,2244.0,2200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-0334,RapidMove Logistics,Raw materials,2369.0,2300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-0335,Core Materials,IT services,2496.0,2400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-0336,Delta Circuits,Electronics,2625.0,2500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-0337,GreenWrap,Packaging,2756.0,2600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-0338,Metro Freight,Logistics,2889.0,2700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-0339,Nova Components,Raw materials,3024.0,2800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-0340,Pioneer Polymers,IT services,3161.0,2900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-0341,Apex Electronics,Electronics,1100.0,1000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-0342,Northstar Components,Packaging,1221.0,1100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-0343,BrightPack Ltd,Logistics,1344.0,1200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-0344,RapidMove Logistics,Raw materials,1469.0,1300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-0345,Core Materials,IT services,1596.0,1400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-0346,Delta Circuits,Electronics,1725.0,1500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-0347,GreenWrap,Packaging,1856.0,1600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-0348,Metro Freight,Logistics,1989.0,1700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-0349,Nova Components,Raw materials,2124.0,1800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-0350,Pioneer Polymers,IT services,2261.0,1900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-0351,Apex Electronics,Electronics,2400.0,2000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-0352,Northstar Components,Packaging,2541.0,2100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-0353,BrightPack Ltd,Logistics,2684.0,2200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-0354,RapidMove Logistics,Raw materials,2829.0,2300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-0355,Core Materials,IT services,2976.0,2400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-0356,Delta Circuits,Electronics,3125.0,2500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-0357,GreenWrap,Packaging,3276.0,2600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-0358,Metro Freight,Logistics,3429.0,2700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-0359,Nova Components,Raw materials,3584.0,2800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-0360,Pioneer Polymers,IT services,3741.0,2900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-0361,Apex Electronics,Electronics,1000.0,1000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-0362,Northstar Components,Packaging,1111.0,1100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-0363,BrightPack Ltd,Logistics,1224.0,1200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-0364,RapidMove Logistics,Raw materials,1339.0,1300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-0365,Core Materials,IT services,1456.0,1400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-0366,Delta Circuits,Electronics,1575.0,1500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-0367,GreenWrap,Packaging,1696.0,1600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-0368,Metro Freight,Logistics,1819.0,1700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-0369,Nova Components,Raw materials,1944.0,1800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-0370,Pioneer Polymers,IT services,2071.0,1900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-0371,Apex Electronics,Electronics,2200.0,2000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-0372,Northstar Components,Packaging,2331.0,2100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-0373,BrightPack Ltd,Logistics,2464.0,2200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-0374,RapidMove Logistics,Raw materials,2599.0,2300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-0375,Core Materials,IT services,2736.0,2400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-0376,Delta Circuits,Electronics,2875.0,2500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-0377,GreenWrap,Packaging,3016.0,2600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-0378,Metro Freight,Logistics,3159.0,2700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-0379,Nova Components,Raw materials,3304.0,2800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-0380,Pioneer Polymers,IT services,3451.0,2900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-0381,Apex Electronics,Electronics,1200.0,1000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-0382,Northstar Components,Packaging,1331.0,1100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-0383,BrightPack Ltd,Logistics,1464.0,1200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-0384,RapidMove Logistics,Raw materials,1599.0,1300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-0385,Core Materials,IT services,1736.0,1400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-0386,Delta Circuits,Electronics,1875.0,1500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-0387,GreenWrap,Packaging,2016.0,1600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-0388,Metro Freight,Logistics,2159.0,1700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-0389,Nova Components,Raw materials,2304.0,1800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-0390,Pioneer Polymers,IT services,2451.0,1900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-0391,Apex Electronics,Electronics,2000.0,2000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-0392,Northstar Components,Packaging,2121.0,2100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-0393,BrightPack Ltd,Logistics,2244.0,2200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-0394,RapidMove Logistics,Raw materials,2369.0,2300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-0395,Core Materials,IT services,2496.0,2400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-0396,Delta Circuits,Electronics,2625.0,2500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-0397,GreenWrap,Packaging,2756.0,2600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-0398,Metro Freight,Logistics,2889.0,2700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-0399,Nova Components,Raw materials,3024.0,2800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-0400,Pioneer Polymers,IT services,3161.0,2900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-0401,Apex Electronics,Electronics,1100.0,1000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-0402,Northstar Components,Packaging,1221.0,1100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-0403,BrightPack Ltd,Logistics,1344.0,1200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-0404,RapidMove Logistics,Raw materials,1469.0,1300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-0405,Core Materials,IT services,1596.0,1400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-0406,Delta Circuits,Electronics,1725.0,1500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-0407,GreenWrap,Packaging,1856.0,1600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-0408,Metro Freight,Logistics,1989.0,1700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-0409,Nova Components,Raw materials,2124.0,1800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-0410,Pioneer Polymers,IT services,2261.0,1900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-0411,Apex Electronics,Electronics,2400.0,2000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-0412,Northstar Components,Packaging,2541.0,2100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-0413,BrightPack Ltd,Logistics,2684.0,2200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-0414,RapidMove Logistics,Raw materials,2829.0,2300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-0415,Core Materials,IT services,2976.0,2400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-0416,Delta Circuits,Electronics,3125.0,2500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-0417,GreenWrap,Packaging,3276.0,2600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-0418,Metro Freight,Logistics,3429.0,2700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-0419,Nova Components,Raw materials,3584.0,2800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-0420,Pioneer Polymers,IT services,3741.0,2900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-0421,Apex Electronics,Electronics,1000.0,1000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-0422,Northstar Components,Packaging,1111.0,1100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-0423,BrightPack Ltd,Logistics,1224.0,1200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-0424,RapidMove Logistics,Raw materials,1339.0,1300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-0425,Core Materials,IT services,1456.0,1400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-0426,Delta Circuits,Electronics,1575.0,1500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-0427,GreenWrap,Packaging,1696.0,1600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-0428,Metro Freight,Logistics,1819.0,1700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-0429,Nova Components,Raw materials,1944.0,1800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-0430,Pioneer Polymers,IT services,2071.0,1900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-0431,Apex Electronics,Electronics,2200.0,2000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-0432,Northstar Components,Packaging,2331.0,2100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-0433,BrightPack Ltd,Logistics,2464.0,2200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-0434,RapidMove Logistics,Raw materials,2599.0,2300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-0435,Core Materials,IT services,2736.0,2400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-0436,Delta Circuits,Electronics,2875.0,2500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-0437,GreenWrap,Packaging,3016.0,2600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-0438,Metro Freight,Logistics,3159.0,2700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-0439,Nova Components,Raw materials,3304.0,2800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-0440,Pioneer Polymers,IT services,3451.0,2900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-0441,Apex Electronics,Electronics,1200.0,1000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-0442,Northstar Components,Packaging,1331.0,1100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-0443,BrightPack Ltd,Logistics,1464.0,1200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-0444,RapidMove Logistics,Raw materials,1599.0,1300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-0445,Core Materials,IT services,1736.0,1400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-0446,Delta Circuits,Electronics,1875.0,1500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-0447,GreenWrap,Packaging,2016.0,1600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-0448,Metro Freight,Logistics,2159.0,1700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-0449,Nova Components,Raw materials,2304.0,1800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-0450,Pioneer Polymers,IT services,2451.0,1900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-0451,Apex Electronics,Electronics,2000.0,2000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-0452,Northstar Components,Packaging,2121.0,2100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-0453,BrightPack Ltd,Logistics,2244.0,2200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-0454,RapidMove Logistics,Raw materials,2369.0,2300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-0455,Core Materials,IT services,2496.0,2400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-0456,Delta Circuits,Electronics,2625.0,2500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-0457,GreenWrap,Packaging,2756.0,2600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-0458,Metro Freight,Logistics,2889.0,2700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-0459,Nova Components,Raw materials,3024.0,2800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-0460,Pioneer Polymers,IT services,3161.0,2900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-0461,Apex Electronics,Electronics,1100.0,1000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-0462,Northstar Components,Packaging,1221.0,1100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-0463,BrightPack Ltd,Logistics,1344.0,1200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-0464,RapidMove Logistics,Raw materials,1469.0,1300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-0465,Core Materials,IT services,1596.0,1400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-0466,Delta Circuits,Electronics,1725.0,1500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-0467,GreenWrap,Packaging,1856.0,1600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-0468,Metro Freight,Logistics,1989.0,1700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-0469,Nova Components,Raw materials,2124.0,1800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-0470,Pioneer Polymers,IT services,2261.0,1900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-0471,Apex Electronics,Electronics,2400.0,2000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-0472,Northstar Components,Packaging,2541.0,2100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-0473,BrightPack Ltd,Logistics,2684.0,2200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-0474,RapidMove Logistics,Raw materials,2829.0,2300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-0475,Core Materials,IT services,2976.0,2400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-0476,Delta Circuits,Electronics,3125.0,2500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-0477,GreenWrap,Packaging,3276.0,2600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-0478,Metro Freight,Logistics,3429.0,2700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-0479,Nova Components,Raw materials,3584.0,2800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-0480,Pioneer Polymers,IT services,3741.0,2900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-0481,Apex Electronics,Electronics,1000.0,1000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-0482,Northstar Components,Packaging,1111.0,1100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-0483,BrightPack Ltd,Logistics,1224.0,1200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-0484,RapidMove Logistics,Raw materials,1339.0,1300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-0485,Core Materials,IT services,1456.0,1400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-0486,Delta Circuits,Electronics,1575.0,1500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-0487,GreenWrap,Packaging,1696.0,1600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-0488,Metro Freight,Logistics,1819.0,1700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-0489,Nova Components,Raw materials,1944.0,1800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-0490,Pioneer Polymers,IT services,2071.0,1900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-0491,Apex Electronics,Electronics,2200.0,2000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-0492,Northstar Components,Packaging,2331.0,2100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-0493,BrightPack Ltd,Logistics,2464.0,2200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-0494,RapidMove Logistics,Raw materials,2599.0,2300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-0495,Core Materials,IT services,2736.0,2400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-0496,Delta Circuits,Electronics,2875.0,2500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-0497,GreenWrap,Packaging,3016.0,2600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-0498,Metro Freight,Logistics,3159.0,2700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-0499,Nova Components,Raw materials,3304.0,2800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-0500,Pioneer Polymers,IT services,3451.0,2900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-0501,Apex Electronics,Electronics,1200.0,1000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-0502,Northstar Components,Packaging,1331.0,1100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-0503,BrightPack Ltd,Logistics,1464.0,1200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-0504,RapidMove Logistics,Raw materials,1599.0,1300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-0505,Core Materials,IT services,1736.0,1400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-0506,Delta Circuits,Electronics,1875.0,1500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-0507,GreenWrap,Packaging,2016.0,1600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-0508,Metro Freight,Logistics,2159.0,1700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-0509,Nova Components,Raw materials,2304.0,1800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-0510,Pioneer Polymers,IT services,2451.0,1900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-0511,Apex Electronics,Electronics,2000.0,2000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-0512,Northstar Components,Packaging,2121.0,2100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-0513,BrightPack Ltd,Logistics,2244.0,2200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-0514,RapidMove Logistics,Raw materials,2369.0,2300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-0515,Core Materials,IT services,2496.0,2400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-0516,Delta Circuits,Electronics,2625.0,2500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-0517,GreenWrap,Packaging,2756.0,2600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-0518,Metro Freight,Logistics,2889.0,2700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-0519,Nova Components,Raw materials,3024.0,2800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-0520,Pioneer Polymers,IT services,3161.0,2900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-0521,Apex Electronics,Electronics,1100.0,1000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-0522,Northstar Components,Packaging,1221.0,1100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-0523,BrightPack Ltd,Logistics,1344.0,1200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-0524,RapidMove Logistics,Raw materials,1469.0,1300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-0525,Core Materials,IT services,1596.0,1400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-0526,Delta Circuits,Electronics,1725.0,1500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-0527,GreenWrap,Packaging,1856.0,1600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-0528,Metro Freight,Logistics,1989.0,1700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-0529,Nova Components,Raw materials,2124.0,1800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-0530,Pioneer Polymers,IT services,2261.0,1900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-0531,Apex Electronics,Electronics,2400.0,2000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-0532,Northstar Components,Packaging,2541.0,2100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-0533,BrightPack Ltd,Logistics,2684.0,2200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-0534,RapidMove Logistics,Raw materials,2829.0,2300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-0535,Core Materials,IT services,2976.0,2400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-0536,Delta Circuits,Electronics,3125.0,2500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-0537,GreenWrap,Packaging,3276.0,2600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-0538,Metro Freight,Logistics,3429.0,2700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-0539,Nova Components,Raw materials,3584.0,2800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-0540,Pioneer Polymers,IT services,3741.0,2900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-0541,Apex Electronics,Electronics,1000.0,1000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-0542,Northstar Components,Packaging,1111.0,1100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-0543,BrightPack Ltd,Logistics,1224.0,1200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-0544,RapidMove Logistics,Raw materials,1339.0,1300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-0545,Core Materials,IT services,1456.0,1400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-0546,Delta Circuits,Electronics,1575.0,1500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-0547,GreenWrap,Packaging,1696.0,1600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-0548,Metro Freight,Logistics,1819.0,1700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-0549,Nova Components,Raw materials,1944.0,1800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-0550,Pioneer Polymers,IT services,2071.0,1900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-0551,Apex Electronics,Electronics,2200.0,2000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-0552,Northstar Components,Packaging,2331.0,2100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-0553,BrightPack Ltd,Logistics,2464.0,2200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-0554,RapidMove Logistics,Raw materials,2599.0,2300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-0555,Core Materials,IT services,2736.0,2400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-0556,Delta Circuits,Electronics,2875.0,2500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-0557,GreenWrap,Packaging,3016.0,2600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-0558,Metro Freight,Logistics,3159.0,2700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-0559,Nova Components,Raw materials,3304.0,2800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-0560,Pioneer Polymers,IT services,3451.0,2900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-0561,Apex Electronics,Electronics,1200.0,1000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-0562,Northstar Components,Packaging,1331.0,1100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-0563,BrightPack Ltd,Logistics,1464.0,1200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-0564,RapidMove Logistics,Raw materials,1599.0,1300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-0565,Core Materials,IT services,1736.0,1400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-0566,Delta Circuits,Electronics,1875.0,1500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-0567,GreenWrap,Packaging,2016.0,1600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-0568,Metro Freight,Logistics,2159.0,1700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-0569,Nova Components,Raw materials,2304.0,1800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-0570,Pioneer Polymers,IT services,2451.0,1900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-0571,Apex Electronics,Electronics,2000.0,2000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-0572,Northstar Components,Packaging,2121.0,2100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-0573,BrightPack Ltd,Logistics,2244.0,2200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-0574,RapidMove Logistics,Raw materials,2369.0,2300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-0575,Core Materials,IT services,2496.0,2400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-0576,Delta Circuits,Electronics,2625.0,2500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-0577,GreenWrap,Packaging,2756.0,2600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-0578,Metro Freight,Logistics,2889.0,2700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-0579,Nova Components,Raw materials,3024.0,2800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-0580,Pioneer Polymers,IT services,3161.0,2900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-0581,Apex Electronics,Electronics,1100.0,1000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-0582,Northstar Components,Packaging,1221.0,1100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-0583,BrightPack Ltd,Logistics,1344.0,1200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-0584,RapidMove Logistics,Raw materials,1469.0,1300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-0585,Core Materials,IT services,1596.0,1400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-0586,Delta Circuits,Electronics,1725.0,1500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-0587,GreenWrap,Packaging,1856.0,1600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-0588,Metro Freight,Logistics,1989.0,1700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-0589,Nova Components,Raw materials,2124.0,1800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-0590,Pioneer Polymers,IT services,2261.0,1900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-0591,Apex Electronics,Electronics,2400.0,2000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-0592,Northstar Components,Packaging,2541.0,2100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-0593,BrightPack Ltd,Logistics,2684.0,2200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-0594,RapidMove Logistics,Raw materials,2829.0,2300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-0595,Core Materials,IT services,2976.0,2400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-0596,Delta Circuits,Electronics,3125.0,2500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-0597,GreenWrap,Packaging,3276.0,2600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-0598,Metro Freight,Logistics,3429.0,2700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-0599,Nova Components,Raw materials,3584.0,2800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-0600,Pioneer Polymers,IT services,3741.0,2900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-0601,Apex Electronics,Electronics,1000.0,1000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-0602,Northstar Components,Packaging,1111.0,1100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-0603,BrightPack Ltd,Logistics,1224.0,1200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-0604,RapidMove Logistics,Raw materials,1339.0,1300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-0605,Core Materials,IT services,1456.0,1400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-0606,Delta Circuits,Electronics,1575.0,1500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-0607,GreenWrap,Packaging,1696.0,1600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-0608,Metro Freight,Logistics,1819.0,1700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-0609,Nova Components,Raw materials,1944.0,1800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-0610,Pioneer Polymers,IT services,2071.0,1900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-0611,Apex Electronics,Electronics,2200.0,2000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-0612,Northstar Components,Packaging,2331.0,2100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-0613,BrightPack Ltd,Logistics,2464.0,2200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-0614,RapidMove Logistics,Raw materials,2599.0,2300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-0615,Core Materials,IT services,2736.0,2400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-0616,Delta Circuits,Electronics,2875.0,2500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-0617,GreenWrap,Packaging,3016.0,2600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-0618,Metro Freight,Logistics,3159.0,2700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-0619,Nova Components,Raw materials,3304.0,2800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-0620,Pioneer Polymers,IT services,3451.0,2900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-0621,Apex Electronics,Electronics,1200.0,1000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-0622,Northstar Components,Packaging,1331.0,1100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-0623,BrightPack Ltd,Logistics,1464.0,1200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-0624,RapidMove Logistics,Raw materials,1599.0,1300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-0625,Core Materials,IT services,1736.0,1400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-0626,Delta Circuits,Electronics,1875.0,1500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-0627,GreenWrap,Packaging,2016.0,1600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-0628,Metro Freight,Logistics,2159.0,1700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-0629,Nova Components,Raw materials,2304.0,1800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-0630,Pioneer Polymers,IT services,2451.0,1900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-0631,Apex Electronics,Electronics,2000.0,2000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-0632,Northstar Components,Packaging,2121.0,2100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-0633,BrightPack Ltd,Logistics,2244.0,2200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-0634,RapidMove Logistics,Raw materials,2369.0,2300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-0635,Core Materials,IT services,2496.0,2400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-0636,Delta Circuits,Electronics,2625.0,2500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-0637,GreenWrap,Packaging,2756.0,2600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-0638,Metro Freight,Logistics,2889.0,2700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-0639,Nova Components,Raw materials,3024.0,2800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-0640,Pioneer Polymers,IT services,3161.0,2900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-0641,Apex Electronics,Electronics,1100.0,1000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-0642,Northstar Components,Packaging,1221.0,1100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-0643,BrightPack Ltd,Logistics,1344.0,1200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-0644,RapidMove Logistics,Raw materials,1469.0,1300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-0645,Core Materials,IT services,1596.0,1400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-0646,Delta Circuits,Electronics,1725.0,1500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-0647,GreenWrap,Packaging,1856.0,1600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-0648,Metro Freight,Logistics,1989.0,1700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-0649,Nova Components,Raw materials,2124.0,1800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-0650,Pioneer Polymers,IT services,2261.0,1900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-0651,Apex Electronics,Electronics,2400.0,2000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-0652,Northstar Components,Packaging,2541.0,2100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-0653,BrightPack Ltd,Logistics,2684.0,2200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-0654,RapidMove Logistics,Raw materials,2829.0,2300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-0655,Core Materials,IT services,2976.0,2400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-0656,Delta Circuits,Electronics,3125.0,2500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-0657,GreenWrap,Packaging,3276.0,2600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-0658,Metro Freight,Logistics,3429.0,2700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-0659,Nova Components,Raw materials,3584.0,2800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-0660,Pioneer Polymers,IT services,3741.0,2900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-0661,Apex Electronics,Electronics,1000.0,1000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-0662,Northstar Components,Packaging,1111.0,1100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-0663,BrightPack Ltd,Logistics,1224.0,1200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-0664,RapidMove Logistics,Raw materials,1339.0,1300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-0665,Core Materials,IT services,1456.0,1400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-0666,Delta Circuits,Electronics,1575.0,1500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-0667,GreenWrap,Packaging,1696.0,1600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-0668,Metro Freight,Logistics,1819.0,1700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-0669,Nova Components,Raw materials,1944.0,1800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-0670,Pioneer Polymers,IT services,2071.0,1900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-0671,Apex Electronics,Electronics,2200.0,2000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-0672,Northstar Components,Packaging,2331.0,2100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-0673,BrightPack Ltd,Logistics,2464.0,2200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-0674,RapidMove Logistics,Raw materials,2599.0,2300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-0675,Core Materials,IT services,2736.0,2400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-0676,Delta Circuits,Electronics,2875.0,2500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-0677,GreenWrap,Packaging,3016.0,2600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-0678,Metro Freight,Logistics,3159.0,2700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-0679,Nova Components,Raw materials,3304.0,2800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-0680,Pioneer Polymers,IT services,3451.0,2900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-0681,Apex Electronics,Electronics,1200.0,1000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-0682,Northstar Components,Packaging,1331.0,1100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-0683,BrightPack Ltd,Logistics,1464.0,1200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-0684,RapidMove Logistics,Raw materials,1599.0,1300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-0685,Core Materials,IT services,1736.0,1400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-0686,Delta Circuits,Electronics,1875.0,1500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-0687,GreenWrap,Packaging,2016.0,1600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-0688,Metro Freight,Logistics,2159.0,1700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-0689,Nova Components,Raw materials,2304.0,1800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-0690,Pioneer Polymers,IT services,2451.0,1900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-0691,Apex Electronics,Electronics,2000.0,2000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-0692,Northstar Components,Packaging,2121.0,2100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-0693,BrightPack Ltd,Logistics,2244.0,2200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-0694,RapidMove Logistics,Raw materials,2369.0,2300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-0695,Core Materials,IT services,2496.0,2400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-0696,Delta Circuits,Electronics,2625.0,2500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-0697,GreenWrap,Packaging,2756.0,2600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-0698,Metro Freight,Logistics,2889.0,2700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-0699,Nova Components,Raw materials,3024.0,2800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-0700,Pioneer Polymers,IT services,3161.0,2900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-0701,Apex Electronics,Electronics,1100.0,1000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-0702,Northstar Components,Packaging,1221.0,1100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-0703,BrightPack Ltd,Logistics,1344.0,1200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-0704,RapidMove Logistics,Raw materials,1469.0,1300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-0705,Core Materials,IT services,1596.0,1400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-0706,Delta Circuits,Electronics,1725.0,1500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-0707,GreenWrap,Packaging,1856.0,1600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-0708,Metro Freight,Logistics,1989.0,1700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-0709,Nova Components,Raw materials,2124.0,1800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-0710,Pioneer Polymers,IT services,2261.0,1900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-0711,Apex Electronics,Electronics,2400.0,2000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-0712,Northstar Components,Packaging,2541.0,2100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-0713,BrightPack Ltd,Logistics,2684.0,2200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-0714,RapidMove Logistics,Raw materials,2829.0,2300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-0715,Core Materials,IT services,2976.0,2400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-0716,Delta Circuits,Electronics,3125.0,2500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-0717,GreenWrap,Packaging,3276.0,2600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-0718,Metro Freight,Logistics,3429.0,2700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-0719,Nova Components,Raw materials,3584.0,2800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-0720,Pioneer Polymers,IT services,3741.0,2900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-0721,Apex Electronics,Electronics,1000.0,1000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-0722,Northstar Components,Packaging,1111.0,1100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-0723,BrightPack Ltd,Logistics,1224.0,1200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-0724,RapidMove Logistics,Raw materials,1339.0,1300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-0725,Core Materials,IT services,1456.0,1400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-0726,Delta Circuits,Electronics,1575.0,1500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-0727,GreenWrap,Packaging,1696.0,1600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-0728,Metro Freight,Logistics,1819.0,1700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-0729,Nova Components,Raw materials,1944.0,1800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-0730,Pioneer Polymers,IT services,2071.0,1900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-0731,Apex Electronics,Electronics,2200.0,2000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-0732,Northstar Components,Packaging,2331.0,2100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-0733,BrightPack Ltd,Logistics,2464.0,2200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-0734,RapidMove Logistics,Raw materials,2599.0,2300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-0735,Core Materials,IT services,2736.0,2400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-0736,Delta Circuits,Electronics,2875.0,2500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-0737,GreenWrap,Packaging,3016.0,2600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-0738,Metro Freight,Logistics,3159.0,2700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-0739,Nova Components,Raw materials,3304.0,2800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-0740,Pioneer Polymers,IT services,3451.0,2900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-0741,Apex Electronics,Electronics,1200.0,1000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-0742,Northstar Components,Packaging,1331.0,1100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-0743,BrightPack Ltd,Logistics,1464.0,1200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-0744,RapidMove Logistics,Raw materials,1599.0,1300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-0745,Core Materials,IT services,1736.0,1400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-0746,Delta Circuits,Electronics,1875.0,1500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-0747,GreenWrap,Packaging,2016.0,1600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-0748,Metro Freight,Logistics,2159.0,1700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-0749,Nova Components,Raw materials,2304.0,1800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-0750,Pioneer Polymers,IT services,2451.0,1900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-0751,Apex Electronics,Electronics,2000.0,2000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-0752,Northstar Components,Packaging,2121.0,2100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-0753,BrightPack Ltd,Logistics,2244.0,2200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-0754,RapidMove Logistics,Raw materials,2369.0,2300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-0755,Core Materials,IT services,2496.0,2400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-0756,Delta Circuits,Electronics,2625.0,2500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-0757,GreenWrap,Packaging,2756.0,2600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-0758,Metro Freight,Logistics,2889.0,2700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-0759,Nova Components,Raw materials,3024.0,2800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-0760,Pioneer Polymers,IT services,3161.0,2900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-0761,Apex Electronics,Electronics,1100.0,1000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-0762,Northstar Components,Packaging,1221.0,1100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-0763,BrightPack Ltd,Logistics,1344.0,1200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-0764,RapidMove Logistics,Raw materials,1469.0,1300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-0765,Core Materials,IT services,1596.0,1400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-0766,Delta Circuits,Electronics,1725.0,1500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-0767,GreenWrap,Packaging,1856.0,1600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-0768,Metro Freight,Logistics,1989.0,1700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-0769,Nova Components,Raw materials,2124.0,1800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-0770,Pioneer Polymers,IT services,2261.0,1900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-0771,Apex Electronics,Electronics,2400.0,2000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-0772,Northstar Components,Packaging,2541.0,2100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-0773,BrightPack Ltd,Logistics,2684.0,2200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-0774,RapidMove Logistics,Raw materials,2829.0,2300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-0775,Core Materials,IT services,2976.0,2400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-0776,Delta Circuits,Electronics,3125.0,2500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-0777,GreenWrap,Packaging,3276.0,2600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-0778,Metro Freight,Logistics,3429.0,2700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-0779,Nova Components,Raw materials,3584.0,2800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-0780,Pioneer Polymers,IT services,3741.0,2900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-0781,Apex Electronics,Electronics,1000.0,1000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-0782,Northstar Components,Packaging,1111.0,1100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-0783,BrightPack Ltd,Logistics,1224.0,1200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-0784,RapidMove Logistics,Raw materials,1339.0,1300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-0785,Core Materials,IT services,1456.0,1400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-0786,Delta Circuits,Electronics,1575.0,1500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-0787,GreenWrap,Packaging,1696.0,1600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-0788,Metro Freight,Logistics,1819.0,1700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-0789,Nova Components,Raw materials,1944.0,1800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-0790,Pioneer Polymers,IT services,2071.0,1900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-0791,Apex Electronics,Electronics,2200.0,2000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-0792,Northstar Components,Packaging,2331.0,2100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-0793,BrightPack Ltd,Logistics,2464.0,2200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-0794,RapidMove Logistics,Raw materials,2599.0,2300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-0795,Core Materials,IT services,2736.0,2400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-0796,Delta Circuits,Electronics,2875.0,2500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-0797,GreenWrap,Packaging,3016.0,2600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-0798,Metro Freight,Logistics,3159.0,2700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-0799,Nova Components,Raw materials,3304.0,2800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-0800,Pioneer Polymers,IT services,3451.0,2900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-0801,Apex Electronics,Electronics,1200.0,1000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-0802,Northstar Components,Packaging,1331.0,1100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-0803,BrightPack Ltd,Logistics,1464.0,1200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-0804,RapidMove Logistics,Raw materials,1599.0,1300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-0805,Core Materials,IT services,1736.0,1400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-0806,Delta Circuits,Electronics,1875.0,1500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-0807,GreenWrap,Packaging,2016.0,1600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-0808,Metro Freight,Logistics,2159.0,1700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-0809,Nova Components,Raw materials,2304.0,1800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-0810,Pioneer Polymers,IT services,2451.0,1900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-0811,Apex Electronics,Electronics,2000.0,2000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-0812,Northstar Components,Packaging,2121.0,2100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-0813,BrightPack Ltd,Logistics,2244.0,2200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-0814,RapidMove Logistics,Raw materials,2369.0,2300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-0815,Core Materials,IT services,2496.0,2400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-0816,Delta Circuits,Electronics,2625.0,2500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-0817,GreenWrap,Packaging,2756.0,2600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-0818,Metro Freight,Logistics,2889.0,2700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-0819,Nova Components,Raw materials,3024.0,2800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-0820,Pioneer Polymers,IT services,3161.0,2900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-0821,Apex Electronics,Electronics,1100.0,1000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-0822,Northstar Components,Packaging,1221.0,1100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-0823,BrightPack Ltd,Logistics,1344.0,1200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-0824,RapidMove Logistics,Raw materials,1469.0,1300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-0825,Core Materials,IT services,1596.0,1400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-0826,Delta Circuits,Electronics,1725.0,1500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-0827,GreenWrap,Packaging,1856.0,1600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-0828,Metro Freight,Logistics,1989.0,1700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-0829,Nova Components,Raw materials,2124.0,1800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-0830,Pioneer Polymers,IT services,2261.0,1900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-0831,Apex Electronics,Electronics,2400.0,2000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-0832,Northstar Components,Packaging,2541.0,2100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-0833,BrightPack Ltd,Logistics,2684.0,2200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-0834,RapidMove Logistics,Raw materials,2829.0,2300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-0835,Core Materials,IT services,2976.0,2400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-0836,Delta Circuits,Electronics,3125.0,2500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-0837,GreenWrap,Packaging,3276.0,2600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-0838,Metro Freight,Logistics,3429.0,2700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-0839,Nova Components,Raw materials,3584.0,2800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-0840,Pioneer Polymers,IT services,3741.0,2900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-0841,Apex Electronics,Electronics,1000.0,1000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-0842,Northstar Components,Packaging,1111.0,1100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-0843,BrightPack Ltd,Logistics,1224.0,1200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-0844,RapidMove Logistics,Raw materials,1339.0,1300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-0845,Core Materials,IT services,1456.0,1400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-0846,Delta Circuits,Electronics,1575.0,1500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-0847,GreenWrap,Packaging,1696.0,1600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-0848,Metro Freight,Logistics,1819.0,1700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-0849,Nova Components,Raw materials,1944.0,1800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-0850,Pioneer Polymers,IT services,2071.0,1900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-0851,Apex Electronics,Electronics,2200.0,2000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-0852,Northstar Components,Packaging,2331.0,2100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-0853,BrightPack Ltd,Logistics,2464.0,2200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-0854,RapidMove Logistics,Raw materials,2599.0,2300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-0855,Core Materials,IT services,2736.0,2400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-0856,Delta Circuits,Electronics,2875.0,2500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-0857,GreenWrap,Packaging,3016.0,2600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-0858,Metro Freight,Logistics,3159.0,2700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-0859,Nova Components,Raw materials,3304.0,2800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-0860,Pioneer Polymers,IT services,3451.0,2900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-0861,Apex Electronics,Electronics,1200.0,1000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-0862,Northstar Components,Packaging,1331.0,1100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-0863,BrightPack Ltd,Logistics,1464.0,1200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-0864,RapidMove Logistics,Raw materials,1599.0,1300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-0865,Core Materials,IT services,1736.0,1400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-0866,Delta Circuits,Electronics,1875.0,1500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-0867,GreenWrap,Packaging,2016.0,1600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-0868,Metro Freight,Logistics,2159.0,1700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-0869,Nova Components,Raw materials,2304.0,1800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-0870,Pioneer Polymers,IT services,2451.0,1900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-0871,Apex Electronics,Electronics,2000.0,2000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-0872,Northstar Components,Packaging,2121.0,2100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-0873,BrightPack Ltd,Logistics,2244.0,2200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-0874,RapidMove Logistics,Raw materials,2369.0,2300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-0875,Core Materials,IT services,2496.0,2400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-0876,Delta Circuits,Electronics,2625.0,2500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-0877,GreenWrap,Packaging,2756.0,2600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-0878,Metro Freight,Logistics,2889.0,2700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-0879,Nova Components,Raw materials,3024.0,2800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-0880,Pioneer Polymers,IT services,3161.0,2900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-0881,Apex Electronics,Electronics,1100.0,1000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-0882,Northstar Components,Packaging,1221.0,1100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-0883,BrightPack Ltd,Logistics,1344.0,1200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-0884,RapidMove Logistics,Raw materials,1469.0,1300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-0885,Core Materials,IT services,1596.0,1400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-0886,Delta Circuits,Electronics,1725.0,1500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-0887,GreenWrap,Packaging,1856.0,1600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-0888,Metro Freight,Logistics,1989.0,1700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-0889,Nova Components,Raw materials,2124.0,1800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-0890,Pioneer Polymers,IT services,2261.0,1900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-0891,Apex Electronics,Electronics,2400.0,2000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-0892,Northstar Components,Packaging,2541.0,2100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-0893,BrightPack Ltd,Logistics,2684.0,2200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-0894,RapidMove Logistics,Raw materials,2829.0,2300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-0895,Core Materials,IT services,2976.0,2400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-0896,Delta Circuits,Electronics,3125.0,2500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-0897,GreenWrap,Packaging,3276.0,2600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-0898,Metro Freight,Logistics,3429.0,2700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-0899,Nova Components,Raw materials,3584.0,2800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-0900,Pioneer Polymers,IT services,3741.0,2900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-0901,Apex Electronics,Electronics,1000.0,1000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-0902,Northstar Components,Packaging,1111.0,1100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-0903,BrightPack Ltd,Logistics,1224.0,1200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-0904,RapidMove Logistics,Raw materials,1339.0,1300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-0905,Core Materials,IT services,1456.0,1400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-0906,Delta Circuits,Electronics,1575.0,1500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-0907,GreenWrap,Packaging,1696.0,1600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-0908,Metro Freight,Logistics,1819.0,1700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-0909,Nova Components,Raw materials,1944.0,1800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-0910,Pioneer Polymers,IT services,2071.0,1900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-0911,Apex Electronics,Electronics,2200.0,2000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-0912,Northstar Components,Packaging,2331.0,2100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-0913,BrightPack Ltd,Logistics,2464.0,2200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-0914,RapidMove Logistics,Raw materials,2599.0,2300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-0915,Core Materials,IT services,2736.0,2400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-0916,Delta Circuits,Electronics,2875.0,2500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-0917,GreenWrap,Packaging,3016.0,2600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-0918,Metro Freight,Logistics,3159.0,2700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-0919,Nova Components,Raw materials,3304.0,2800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-0920,Pioneer Polymers,IT services,3451.0,2900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-0921,Apex Electronics,Electronics,1200.0,1000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-0922,Northstar Components,Packaging,1331.0,1100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-0923,BrightPack Ltd,Logistics,1464.0,1200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-0924,RapidMove Logistics,Raw materials,1599.0,1300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-0925,Core Materials,IT services,1736.0,1400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-0926,Delta Circuits,Electronics,1875.0,1500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-0927,GreenWrap,Packaging,2016.0,1600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-0928,Metro Freight,Logistics,2159.0,1700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-0929,Nova Components,Raw materials,2304.0,1800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-0930,Pioneer Polymers,IT services,2451.0,1900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-0931,Apex Electronics,Electronics,2000.0,2000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-0932,Northstar Components,Packaging,2121.0,2100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-0933,BrightPack Ltd,Logistics,2244.0,2200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-0934,RapidMove Logistics,Raw materials,2369.0,2300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-0935,Core Materials,IT services,2496.0,2400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-0936,Delta Circuits,Electronics,2625.0,2500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-0937,GreenWrap,Packaging,2756.0,2600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-0938,Metro Freight,Logistics,2889.0,2700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-0939,Nova Components,Raw materials,3024.0,2800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-0940,Pioneer Polymers,IT services,3161.0,2900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-0941,Apex Electronics,Electronics,1100.0,1000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-0942,Northstar Components,Packaging,1221.0,1100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-0943,BrightPack Ltd,Logistics,1344.0,1200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-0944,RapidMove Logistics,Raw materials,1469.0,1300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-0945,Core Materials,IT services,1596.0,1400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-0946,Delta Circuits,Electronics,1725.0,1500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-0947,GreenWrap,Packaging,1856.0,1600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-0948,Metro Freight,Logistics,1989.0,1700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-0949,Nova Components,Raw materials,2124.0,1800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-0950,Pioneer Polymers,IT services,2261.0,1900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-0951,Apex Electronics,Electronics,2400.0,2000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-0952,Northstar Components,Packaging,2541.0,2100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-0953,BrightPack Ltd,Logistics,2684.0,2200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-0954,RapidMove Logistics,Raw materials,2829.0,2300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-0955,Core Materials,IT services,2976.0,2400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-0956,Delta Circuits,Electronics,3125.0,2500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-0957,GreenWrap,Packaging,3276.0,2600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-0958,Metro Freight,Logistics,3429.0,2700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-0959,Nova Components,Raw materials,3584.0,2800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-0960,Pioneer Polymers,IT services,3741.0,2900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-0961,Apex Electronics,Electronics,1000.0,1000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-0962,Northstar Components,Packaging,1111.0,1100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-0963,BrightPack Ltd,Logistics,1224.0,1200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-0964,RapidMove Logistics,Raw materials,1339.0,1300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-0965,Core Materials,IT services,1456.0,1400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-0966,Delta Circuits,Electronics,1575.0,1500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-0967,GreenWrap,Packaging,1696.0,1600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-0968,Metro Freight,Logistics,1819.0,1700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-0969,Nova Components,Raw materials,1944.0,1800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-0970,Pioneer Polymers,IT services,2071.0,1900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-0971,Apex Electronics,Electronics,2200.0,2000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-0972,Northstar Components,Packaging,2331.0,2100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-0973,BrightPack Ltd,Logistics,2464.0,2200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-0974,RapidMove Logistics,Raw materials,2599.0,2300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-0975,Core Materials,IT services,2736.0,2400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-0976,Delta Circuits,Electronics,2875.0,2500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-0977,GreenWrap,Packaging,3016.0,2600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-0978,Metro Freight,Logistics,3159.0,2700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-0979,Nova Components,Raw materials,3304.0,2800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-0980,Pioneer Polymers,IT services,3451.0,2900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-0981,Apex Electronics,Electronics,1200.0,1000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-0982,Northstar Components,Packaging,1331.0,1100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-0983,BrightPack Ltd,Logistics,1464.0,1200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-0984,RapidMove Logistics,Raw materials,1599.0,1300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-0985,Core Materials,IT services,1736.0,1400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-0986,Delta Circuits,Electronics,1875.0,1500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-0987,GreenWrap,Packaging,2016.0,1600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-0988,Metro Freight,Logistics,2159.0,1700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-0989,Nova Components,Raw materials,2304.0,1800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-0990,Pioneer Polymers,IT services,2451.0,1900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-0991,Apex Electronics,Electronics,2000.0,2000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-0992,Northstar Components,Packaging,2121.0,2100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-0993,BrightPack Ltd,Logistics,2244.0,2200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-0994,RapidMove Logistics,Raw materials,2369.0,2300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-0995,Core Materials,IT services,2496.0,2400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-0996,Delta Circuits,Electronics,2625.0,2500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-0997,GreenWrap,Packaging,2756.0,2600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-0998,Metro Freight,Logistics,2889.0,2700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-0999,Nova Components,Raw materials,3024.0,2800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-1000,Pioneer Polymers,IT services,3161.0,2900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-1001,Apex Electronics,Electronics,1100.0,1000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-1002,Northstar Components,Packaging,1221.0,1100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-1003,BrightPack Ltd,Logistics,1344.0,1200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-1004,RapidMove Logistics,Raw materials,1469.0,1300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-1005,Core Materials,IT services,1596.0,1400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-1006,Delta Circuits,Electronics,1725.0,1500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-1007,GreenWrap,Packaging,1856.0,1600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-1008,Metro Freight,Logistics,1989.0,1700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-1009,Nova Components,Raw materials,2124.0,1800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-1010,Pioneer Polymers,IT services,2261.0,1900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-1011,Apex Electronics,Electronics,2400.0,2000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-1012,Northstar Components,Packaging,2541.0,2100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-1013,BrightPack Ltd,Logistics,2684.0,2200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-1014,RapidMove Logistics,Raw materials,2829.0,2300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-1015,Core Materials,IT services,2976.0,2400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-1016,Delta Circuits,Electronics,3125.0,2500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-1017,GreenWrap,Packaging,3276.0,2600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-1018,Metro Freight,Logistics,3429.0,2700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-1019,Nova Components,Raw materials,3584.0,2800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-1020,Pioneer Polymers,IT services,3741.0,2900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-1021,Apex Electronics,Electronics,1000.0,1000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-1022,Northstar Components,Packaging,1111.0,1100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-1023,BrightPack Ltd,Logistics,1224.0,1200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-1024,RapidMove Logistics,Raw materials,1339.0,1300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-1025,Core Materials,IT services,1456.0,1400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-1026,Delta Circuits,Electronics,1575.0,1500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-1027,GreenWrap,Packaging,1696.0,1600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-1028,Metro Freight,Logistics,1819.0,1700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-1029,Nova Components,Raw materials,1944.0,1800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-1030,Pioneer Polymers,IT services,2071.0,1900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-1031,Apex Electronics,Electronics,2200.0,2000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-1032,Northstar Components,Packaging,2331.0,2100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-1033,BrightPack Ltd,Logistics,2464.0,2200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-1034,RapidMove Logistics,Raw materials,2599.0,2300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-1035,Core Materials,IT services,2736.0,2400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-1036,Delta Circuits,Electronics,2875.0,2500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-1037,GreenWrap,Packaging,3016.0,2600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-1038,Metro Freight,Logistics,3159.0,2700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-1039,Nova Components,Raw materials,3304.0,2800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-1040,Pioneer Polymers,IT services,3451.0,2900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-1041,Apex Electronics,Electronics,1200.0,1000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-1042,Northstar Components,Packaging,1331.0,1100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-1043,BrightPack Ltd,Logistics,1464.0,1200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-1044,RapidMove Logistics,Raw materials,1599.0,1300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-1045,Core Materials,IT services,1736.0,1400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-1046,Delta Circuits,Electronics,1875.0,1500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-1047,GreenWrap,Packaging,2016.0,1600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-1048,Metro Freight,Logistics,2159.0,1700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-1049,Nova Components,Raw materials,2304.0,1800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-1050,Pioneer Polymers,IT services,2451.0,1900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-1051,Apex Electronics,Electronics,2000.0,2000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-1052,Northstar Components,Packaging,2121.0,2100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-1053,BrightPack Ltd,Logistics,2244.0,2200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-1054,RapidMove Logistics,Raw materials,2369.0,2300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-1055,Core Materials,IT services,2496.0,2400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-1056,Delta Circuits,Electronics,2625.0,2500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-1057,GreenWrap,Packaging,2756.0,2600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-1058,Metro Freight,Logistics,2889.0,2700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-1059,Nova Components,Raw materials,3024.0,2800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-1060,Pioneer Polymers,IT services,3161.0,2900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-1061,Apex Electronics,Electronics,1100.0,1000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-1062,Northstar Components,Packaging,1221.0,1100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-1063,BrightPack Ltd,Logistics,1344.0,1200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-1064,RapidMove Logistics,Raw materials,1469.0,1300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-1065,Core Materials,IT services,1596.0,1400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-1066,Delta Circuits,Electronics,1725.0,1500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-1067,GreenWrap,Packaging,1856.0,1600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-1068,Metro Freight,Logistics,1989.0,1700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-1069,Nova Components,Raw materials,2124.0,1800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-1070,Pioneer Polymers,IT services,2261.0,1900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-1071,Apex Electronics,Electronics,2400.0,2000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-1072,Northstar Components,Packaging,2541.0,2100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-1073,BrightPack Ltd,Logistics,2684.0,2200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-1074,RapidMove Logistics,Raw materials,2829.0,2300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-1075,Core Materials,IT services,2976.0,2400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-1076,Delta Circuits,Electronics,3125.0,2500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-1077,GreenWrap,Packaging,3276.0,2600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-1078,Metro Freight,Logistics,3429.0,2700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-1079,Nova Components,Raw materials,3584.0,2800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-1080,Pioneer Polymers,IT services,3741.0,2900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-1081,Apex Electronics,Electronics,1000.0,1000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-1082,Northstar Components,Packaging,1111.0,1100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-1083,BrightPack Ltd,Logistics,1224.0,1200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-1084,RapidMove Logistics,Raw materials,1339.0,1300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-1085,Core Materials,IT services,1456.0,1400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-1086,Delta Circuits,Electronics,1575.0,1500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-1087,GreenWrap,Packaging,1696.0,1600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-1088,Metro Freight,Logistics,1819.0,1700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-1089,Nova Components,Raw materials,1944.0,1800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-1090,Pioneer Polymers,IT services,2071.0,1900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-1091,Apex Electronics,Electronics,2200.0,2000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-1092,Northstar Components,Packaging,2331.0,2100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-1093,BrightPack Ltd,Logistics,2464.0,2200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-1094,RapidMove Logistics,Raw materials,2599.0,2300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-1095,Core Materials,IT services,2736.0,2400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-1096,Delta Circuits,Electronics,2875.0,2500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-1097,GreenWrap,Packaging,3016.0,2600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-1098,Metro Freight,Logistics,3159.0,2700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-1099,Nova Components,Raw materials,3304.0,2800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-1100,Pioneer Polymers,IT services,3451.0,2900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-1101,Apex Electronics,Electronics,1200.0,1000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-1102,Northstar Components,Packaging,1331.0,1100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-1103,BrightPack Ltd,Logistics,1464.0,1200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-1104,RapidMove Logistics,Raw materials,1599.0,1300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-1105,Core Materials,IT services,1736.0,1400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-1106,Delta Circuits,Electronics,1875.0,1500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-1107,GreenWrap,Packaging,2016.0,1600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-1108,Metro Freight,Logistics,2159.0,1700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-1109,Nova Components,Raw materials,2304.0,1800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-1110,Pioneer Polymers,IT services,2451.0,1900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-1111,Apex Electronics,Electronics,2000.0,2000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-1112,Northstar Components,Packaging,2121.0,2100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-1113,BrightPack Ltd,Logistics,2244.0,2200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-1114,RapidMove Logistics,Raw materials,2369.0,2300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-1115,Core Materials,IT services,2496.0,2400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-1116,Delta Circuits,Electronics,2625.0,2500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-1117,GreenWrap,Packaging,2756.0,2600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-1118,Metro Freight,Logistics,2889.0,2700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-1119,Nova Components,Raw materials,3024.0,2800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-1120,Pioneer Polymers,IT services,3161.0,2900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-1121,Apex Electronics,Electronics,1100.0,1000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-1122,Northstar Components,Packaging,1221.0,1100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-1123,BrightPack Ltd,Logistics,1344.0,1200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-1124,RapidMove Logistics,Raw materials,1469.0,1300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-1125,Core Materials,IT services,1596.0,1400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-1126,Delta Circuits,Electronics,1725.0,1500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-1127,GreenWrap,Packaging,1856.0,1600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-1128,Metro Freight,Logistics,1989.0,1700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-1129,Nova Components,Raw materials,2124.0,1800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-1130,Pioneer Polymers,IT services,2261.0,1900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-1131,Apex Electronics,Electronics,2400.0,2000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-1132,Northstar Components,Packaging,2541.0,2100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-1133,BrightPack Ltd,Logistics,2684.0,2200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-1134,RapidMove Logistics,Raw materials,2829.0,2300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-1135,Core Materials,IT services,2976.0,2400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-1136,Delta Circuits,Electronics,3125.0,2500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-1137,GreenWrap,Packaging,3276.0,2600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-1138,Metro Freight,Logistics,3429.0,2700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-1139,Nova Components,Raw materials,3584.0,2800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-1140,Pioneer Polymers,IT services,3741.0,2900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-1141,Apex Electronics,Electronics,1000.0,1000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-1142,Northstar Components,Packaging,1111.0,1100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-1143,BrightPack Ltd,Logistics,1224.0,1200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-1144,RapidMove Logistics,Raw materials,1339.0,1300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-1145,Core Materials,IT services,1456.0,1400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-1146,Delta Circuits,Electronics,1575.0,1500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-1147,GreenWrap,Packaging,1696.0,1600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-1148,Metro Freight,Logistics,1819.0,1700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-1149,Nova Components,Raw materials,1944.0,1800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-1150,Pioneer Polymers,IT services,2071.0,1900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-1151,Apex Electronics,Electronics,2200.0,2000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-1152,Northstar Components,Packaging,2331.0,2100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-1153,BrightPack Ltd,Logistics,2464.0,2200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-1154,RapidMove Logistics,Raw materials,2599.0,2300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-1155,Core Materials,IT services,2736.0,2400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-1156,Delta Circuits,Electronics,2875.0,2500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-1157,GreenWrap,Packaging,3016.0,2600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-1158,Metro Freight,Logistics,3159.0,2700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-1159,Nova Components,Raw materials,3304.0,2800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-1160,Pioneer Polymers,IT services,3451.0,2900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-1161,Apex Electronics,Electronics,1200.0,1000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-1162,Northstar Components,Packaging,1331.0,1100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-1163,BrightPack Ltd,Logistics,1464.0,1200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-1164,RapidMove Logistics,Raw materials,1599.0,1300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-1165,Core Materials,IT services,1736.0,1400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-1166,Delta Circuits,Electronics,1875.0,1500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-1167,GreenWrap,Packaging,2016.0,1600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-1168,Metro Freight,Logistics,2159.0,1700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-1169,Nova Components,Raw materials,2304.0,1800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-1170,Pioneer Polymers,IT services,2451.0,1900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-1171,Apex Electronics,Electronics,2000.0,2000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-1172,Northstar Components,Packaging,2121.0,2100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-1173,BrightPack Ltd,Logistics,2244.0,2200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-1174,RapidMove Logistics,Raw materials,2369.0,2300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-1175,Core Materials,IT services,2496.0,2400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-1176,Delta Circuits,Electronics,2625.0,2500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-1177,GreenWrap,Packaging,2756.0,2600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-1178,Metro Freight,Logistics,2889.0,2700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-1179,Nova Components,Raw materials,3024.0,2800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-1180,Pioneer Polymers,IT services,3161.0,2900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-1181,Apex Electronics,Electronics,1100.0,1000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-1182,Northstar Components,Packaging,1221.0,1100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-1183,BrightPack Ltd,Logistics,1344.0,1200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-1184,RapidMove Logistics,Raw materials,1469.0,1300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-1185,Core Materials,IT services,1596.0,1400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-1186,Delta Circuits,Electronics,1725.0,1500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-1187,GreenWrap,Packaging,1856.0,1600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-1188,Metro Freight,Logistics,1989.0,1700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-1189,Nova Components,Raw materials,2124.0,1800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-1190,Pioneer Polymers,IT services,2261.0,1900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-1191,Apex Electronics,Electronics,2400.0,2000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-1192,Northstar Components,Packaging,2541.0,2100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-1193,BrightPack Ltd,Logistics,2684.0,2200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-1194,RapidMove Logistics,Raw materials,2829.0,2300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-1195,Core Materials,IT services,2976.0,2400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-1196,Delta Circuits,Electronics,3125.0,2500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-1197,GreenWrap,Packaging,3276.0,2600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-1198,Metro Freight,Logistics,3429.0,2700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-1199,Nova Components,Raw materials,3584.0,2800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-1200,Pioneer Polymers,IT services,3741.0,2900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-1201,Apex Electronics,Electronics,1000.0,1000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-1202,Northstar Components,Packaging,1111.0,1100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-1203,BrightPack Ltd,Logistics,1224.0,1200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-1204,RapidMove Logistics,Raw materials,1339.0,1300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-1205,Core Materials,IT services,1456.0,1400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-1206,Delta Circuits,Electronics,1575.0,1500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-1207,GreenWrap,Packaging,1696.0,1600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-1208,Metro Freight,Logistics,1819.0,1700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-1209,Nova Components,Raw materials,1944.0,1800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-1210,Pioneer Polymers,IT services,2071.0,1900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-1211,Apex Electronics,Electronics,2200.0,2000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-1212,Northstar Components,Packaging,2331.0,2100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-1213,BrightPack Ltd,Logistics,2464.0,2200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-1214,RapidMove Logistics,Raw materials,2599.0,2300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-1215,Core Materials,IT services,2736.0,2400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-1216,Delta Circuits,Electronics,2875.0,2500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-1217,GreenWrap,Packaging,3016.0,2600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-1218,Metro Freight,Logistics,3159.0,2700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-1219,Nova Components,Raw materials,3304.0,2800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-1220,Pioneer Polymers,IT services,3451.0,2900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-1221,Apex Electronics,Electronics,1200.0,1000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-1222,Northstar Components,Packaging,1331.0,1100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-1223,BrightPack Ltd,Logistics,1464.0,1200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-1224,RapidMove Logistics,Raw materials,1599.0,1300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-1225,Core Materials,IT services,1736.0,1400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-1226,Delta Circuits,Electronics,1875.0,1500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-1227,GreenWrap,Packaging,2016.0,1600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-1228,Metro Freight,Logistics,2159.0,1700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-1229,Nova Components,Raw materials,2304.0,1800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-1230,Pioneer Polymers,IT services,2451.0,1900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-1231,Apex Electronics,Electronics,2000.0,2000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-1232,Northstar Components,Packaging,2121.0,2100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-1233,BrightPack Ltd,Logistics,2244.0,2200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-1234,RapidMove Logistics,Raw materials,2369.0,2300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-1235,Core Materials,IT services,2496.0,2400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-1236,Delta Circuits,Electronics,2625.0,2500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-1237,GreenWrap,Packaging,2756.0,2600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-1238,Metro Freight,Logistics,2889.0,2700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-1239,Nova Components,Raw materials,3024.0,2800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-1240,Pioneer Polymers,IT services,3161.0,2900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-1241,Apex Electronics,Electronics,1100.0,1000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-1242,Northstar Components,Packaging,1221.0,1100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-1243,BrightPack Ltd,Logistics,1344.0,1200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-1244,RapidMove Logistics,Raw materials,1469.0,1300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-1245,Core Materials,IT services,1596.0,1400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-1246,Delta Circuits,Electronics,1725.0,1500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-1247,GreenWrap,Packaging,1856.0,1600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-1248,Metro Freight,Logistics,1989.0,1700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-1249,Nova Components,Raw materials,2124.0,1800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-1250,Pioneer Polymers,IT services,2261.0,1900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-1251,Apex Electronics,Electronics,2400.0,2000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-1252,Northstar Components,Packaging,2541.0,2100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-1253,BrightPack Ltd,Logistics,2684.0,2200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-1254,RapidMove Logistics,Raw materials,2829.0,2300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-1255,Core Materials,IT services,2976.0,2400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-1256,Delta Circuits,Electronics,3125.0,2500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-1257,GreenWrap,Packaging,3276.0,2600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-1258,Metro Freight,Logistics,3429.0,2700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-1259,Nova Components,Raw materials,3584.0,2800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-1260,Pioneer Polymers,IT services,3741.0,2900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-1261,Apex Electronics,Electronics,1000.0,1000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-1262,Northstar Components,Packaging,1111.0,1100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-1263,BrightPack Ltd,Logistics,1224.0,1200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-1264,RapidMove Logistics,Raw materials,1339.0,1300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-1265,Core Materials,IT services,1456.0,1400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-1266,Delta Circuits,Electronics,1575.0,1500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-1267,GreenWrap,Packaging,1696.0,1600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-1268,Metro Freight,Logistics,1819.0,1700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-1269,Nova Components,Raw materials,1944.0,1800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-1270,Pioneer Polymers,IT services,2071.0,1900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-1271,Apex Electronics,Electronics,2200.0,2000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-1272,Northstar Components,Packaging,2331.0,2100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-1273,BrightPack Ltd,Logistics,2464.0,2200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-1274,RapidMove Logistics,Raw materials,2599.0,2300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-1275,Core Materials,IT services,2736.0,2400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-1276,Delta Circuits,Electronics,2875.0,2500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-1277,GreenWrap,Packaging,3016.0,2600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-1278,Metro Freight,Logistics,3159.0,2700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-1279,Nova Components,Raw materials,3304.0,2800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-1280,Pioneer Polymers,IT services,3451.0,2900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-1281,Apex Electronics,Electronics,1200.0,1000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-1282,Northstar Components,Packaging,1331.0,1100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-1283,BrightPack Ltd,Logistics,1464.0,1200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-1284,RapidMove Logistics,Raw materials,1599.0,1300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-1285,Core Materials,IT services,1736.0,1400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-1286,Delta Circuits,Electronics,1875.0,1500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-1287,GreenWrap,Packaging,2016.0,1600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-1288,Metro Freight,Logistics,2159.0,1700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-1289,Nova Components,Raw materials,2304.0,1800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-1290,Pioneer Polymers,IT services,2451.0,1900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-1291,Apex Electronics,Electronics,2000.0,2000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-1292,Northstar Components,Packaging,2121.0,2100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-1293,BrightPack Ltd,Logistics,2244.0,2200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-1294,RapidMove Logistics,Raw materials,2369.0,2300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-1295,Core Materials,IT services,2496.0,2400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-1296,Delta Circuits,Electronics,2625.0,2500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-1297,GreenWrap,Packaging,2756.0,2600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-1298,Metro Freight,Logistics,2889.0,2700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-1299,Nova Components,Raw materials,3024.0,2800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-1300,Pioneer Polymers,IT services,3161.0,2900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-1301,Apex Electronics,Electronics,1100.0,1000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-1302,Northstar Components,Packaging,1221.0,1100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-1303,BrightPack Ltd,Logistics,1344.0,1200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-1304,RapidMove Logistics,Raw materials,1469.0,1300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-1305,Core Materials,IT services,1596.0,1400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-1306,Delta Circuits,Electronics,1725.0,1500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-1307,GreenWrap,Packaging,1856.0,1600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-1308,Metro Freight,Logistics,1989.0,1700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-1309,Nova Components,Raw materials,2124.0,1800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-1310,Pioneer Polymers,IT services,2261.0,1900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-1311,Apex Electronics,Electronics,2400.0,2000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-1312,Northstar Components,Packaging,2541.0,2100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-1313,BrightPack Ltd,Logistics,2684.0,2200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-1314,RapidMove Logistics,Raw materials,2829.0,2300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-1315,Core Materials,IT services,2976.0,2400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-1316,Delta Circuits,Electronics,3125.0,2500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-1317,GreenWrap,Packaging,3276.0,2600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-1318,Metro Freight,Logistics,3429.0,2700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-1319,Nova Components,Raw materials,3584.0,2800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-1320,Pioneer Polymers,IT services,3741.0,2900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-1321,Apex Electronics,Electronics,1000.0,1000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-1322,Northstar Components,Packaging,1111.0,1100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-1323,BrightPack Ltd,Logistics,1224.0,1200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-1324,RapidMove Logistics,Raw materials,1339.0,1300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-1325,Core Materials,IT services,1456.0,1400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-1326,Delta Circuits,Electronics,1575.0,1500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-1327,GreenWrap,Packaging,1696.0,1600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-1328,Metro Freight,Logistics,1819.0,1700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-1329,Nova Components,Raw materials,1944.0,1800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-1330,Pioneer Polymers,IT services,2071.0,1900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-1331,Apex Electronics,Electronics,2200.0,2000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-1332,Northstar Components,Packaging,2331.0,2100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-1333,BrightPack Ltd,Logistics,2464.0,2200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-1334,RapidMove Logistics,Raw materials,2599.0,2300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-1335,Core Materials,IT services,2736.0,2400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-1336,Delta Circuits,Electronics,2875.0,2500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-1337,GreenWrap,Packaging,3016.0,2600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-1338,Metro Freight,Logistics,3159.0,2700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-1339,Nova Components,Raw materials,3304.0,2800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-1340,Pioneer Polymers,IT services,3451.0,2900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-1341,Apex Electronics,Electronics,1200.0,1000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-1342,Northstar Components,Packaging,1331.0,1100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-1343,BrightPack Ltd,Logistics,1464.0,1200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-1344,RapidMove Logistics,Raw materials,1599.0,1300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-1345,Core Materials,IT services,1736.0,1400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-1346,Delta Circuits,Electronics,1875.0,1500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-1347,GreenWrap,Packaging,2016.0,1600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-1348,Metro Freight,Logistics,2159.0,1700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-1349,Nova Components,Raw materials,2304.0,1800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-1350,Pioneer Polymers,IT services,2451.0,1900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-1351,Apex Electronics,Electronics,2000.0,2000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-1352,Northstar Components,Packaging,2121.0,2100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-1353,BrightPack Ltd,Logistics,2244.0,2200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-1354,RapidMove Logistics,Raw materials,2369.0,2300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-1355,Core Materials,IT services,2496.0,2400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-1356,Delta Circuits,Electronics,2625.0,2500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-1357,GreenWrap,Packaging,2756.0,2600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-1358,Metro Freight,Logistics,2889.0,2700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-1359,Nova Components,Raw materials,3024.0,2800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-1360,Pioneer Polymers,IT services,3161.0,2900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-1361,Apex Electronics,Electronics,1100.0,1000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-1362,Northstar Components,Packaging,1221.0,1100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-1363,BrightPack Ltd,Logistics,1344.0,1200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-1364,RapidMove Logistics,Raw materials,1469.0,1300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-1365,Core Materials,IT services,1596.0,1400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-1366,Delta Circuits,Electronics,1725.0,1500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-1367,GreenWrap,Packaging,1856.0,1600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-1368,Metro Freight,Logistics,1989.0,1700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-1369,Nova Components,Raw materials,2124.0,1800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-1370,Pioneer Polymers,IT services,2261.0,1900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-1371,Apex Electronics,Electronics,2400.0,2000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-1372,Northstar Components,Packaging,2541.0,2100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-1373,BrightPack Ltd,Logistics,2684.0,2200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-1374,RapidMove Logistics,Raw materials,2829.0,2300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-1375,Core Materials,IT services,2976.0,2400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-1376,Delta Circuits,Electronics,3125.0,2500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-1377,GreenWrap,Packaging,3276.0,2600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-1378,Metro Freight,Logistics,3429.0,2700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-1379,Nova Components,Raw materials,3584.0,2800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-1380,Pioneer Polymers,IT services,3741.0,2900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-1381,Apex Electronics,Electronics,1000.0,1000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-1382,Northstar Components,Packaging,1111.0,1100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-1383,BrightPack Ltd,Logistics,1224.0,1200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-1384,RapidMove Logistics,Raw materials,1339.0,1300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-1385,Core Materials,IT services,1456.0,1400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-1386,Delta Circuits,Electronics,1575.0,1500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-1387,GreenWrap,Packaging,1696.0,1600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-1388,Metro Freight,Logistics,1819.0,1700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-1389,Nova Components,Raw materials,1944.0,1800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-1390,Pioneer Polymers,IT services,2071.0,1900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-1391,Apex Electronics,Electronics,2200.0,2000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-1392,Northstar Components,Packaging,2331.0,2100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-1393,BrightPack Ltd,Logistics,2464.0,2200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-1394,RapidMove Logistics,Raw materials,2599.0,2300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-1395,Core Materials,IT services,2736.0,2400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-1396,Delta Circuits,Electronics,2875.0,2500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-1397,GreenWrap,Packaging,3016.0,2600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-1398,Metro Freight,Logistics,3159.0,2700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-1399,Nova Components,Raw materials,3304.0,2800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-1400,Pioneer Polymers,IT services,3451.0,2900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-1401,Apex Electronics,Electronics,1200.0,1000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-1402,Northstar Components,Packaging,1331.0,1100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-1403,BrightPack Ltd,Logistics,1464.0,1200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-1404,RapidMove Logistics,Raw materials,1599.0,1300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-1405,Core Materials,IT services,1736.0,1400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-1406,Delta Circuits,Electronics,1875.0,1500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-1407,GreenWrap,Packaging,2016.0,1600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-1408,Metro Freight,Logistics,2159.0,1700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-1409,Nova Components,Raw materials,2304.0,1800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-1410,Pioneer Polymers,IT services,2451.0,1900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-1411,Apex Electronics,Electronics,2000.0,2000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-1412,Northstar Components,Packaging,2121.0,2100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-1413,BrightPack Ltd,Logistics,2244.0,2200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-1414,RapidMove Logistics,Raw materials,2369.0,2300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-1415,Core Materials,IT services,2496.0,2400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-1416,Delta Circuits,Electronics,2625.0,2500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-1417,GreenWrap,Packaging,2756.0,2600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-1418,Metro Freight,Logistics,2889.0,2700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-1419,Nova Components,Raw materials,3024.0,2800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-1420,Pioneer Polymers,IT services,3161.0,2900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-1421,Apex Electronics,Electronics,1100.0,1000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-1422,Northstar Components,Packaging,1221.0,1100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-1423,BrightPack Ltd,Logistics,1344.0,1200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-1424,RapidMove Logistics,Raw materials,1469.0,1300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-1425,Core Materials,IT services,1596.0,1400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-1426,Delta Circuits,Electronics,1725.0,1500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-1427,GreenWrap,Packaging,1856.0,1600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-1428,Metro Freight,Logistics,1989.0,1700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-1429,Nova Components,Raw materials,2124.0,1800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-1430,Pioneer Polymers,IT services,2261.0,1900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-1431,Apex Electronics,Electronics,2400.0,2000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-1432,Northstar Components,Packaging,2541.0,2100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-1433,BrightPack Ltd,Logistics,2684.0,2200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-1434,RapidMove Logistics,Raw materials,2829.0,2300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-1435,Core Materials,IT services,2976.0,2400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-1436,Delta Circuits,Electronics,3125.0,2500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-1437,GreenWrap,Packaging,3276.0,2600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-1438,Metro Freight,Logistics,3429.0,2700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-1439,Nova Components,Raw materials,3584.0,2800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-1440,Pioneer Polymers,IT services,3741.0,2900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-1441,Apex Electronics,Electronics,1000.0,1000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-1442,Northstar Components,Packaging,1111.0,1100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-1443,BrightPack Ltd,Logistics,1224.0,1200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-1444,RapidMove Logistics,Raw materials,1339.0,1300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-1445,Core Materials,IT services,1456.0,1400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-1446,Delta Circuits,Electronics,1575.0,1500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-1447,GreenWrap,Packaging,1696.0,1600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-1448,Metro Freight,Logistics,1819.0,1700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-1449,Nova Components,Raw materials,1944.0,1800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-1450,Pioneer Polymers,IT services,2071.0,1900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-1451,Apex Electronics,Electronics,2200.0,2000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-1452,Northstar Components,Packaging,2331.0,2100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-1453,BrightPack Ltd,Logistics,2464.0,2200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-1454,RapidMove Logistics,Raw materials,2599.0,2300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-1455,Core Materials,IT services,2736.0,2400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-1456,Delta Circuits,Electronics,2875.0,2500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-1457,GreenWrap,Packaging,3016.0,2600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-1458,Metro Freight,Logistics,3159.0,2700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-1459,Nova Components,Raw materials,3304.0,2800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-1460,Pioneer Polymers,IT services,3451.0,2900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-1461,Apex Electronics,Electronics,1200.0,1000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-1462,Northstar Components,Packaging,1331.0,1100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-1463,BrightPack Ltd,Logistics,1464.0,1200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-1464,RapidMove Logistics,Raw materials,1599.0,1300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-1465,Core Materials,IT services,1736.0,1400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-1466,Delta Circuits,Electronics,1875.0,1500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-1467,GreenWrap,Packaging,2016.0,1600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-1468,Metro Freight,Logistics,2159.0,1700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-1469,Nova Components,Raw materials,2304.0,1800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-1470,Pioneer Polymers,IT services,2451.0,1900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-1471,Apex Electronics,Electronics,2000.0,2000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-1472,Northstar Components,Packaging,2121.0,2100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-1473,BrightPack Ltd,Logistics,2244.0,2200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-1474,RapidMove Logistics,Raw materials,2369.0,2300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-1475,Core Materials,IT services,2496.0,2400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-1476,Delta Circuits,Electronics,2625.0,2500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-1477,GreenWrap,Packaging,2756.0,2600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-1478,Metro Freight,Logistics,2889.0,2700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-1479,Nova Components,Raw materials,3024.0,2800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-1480,Pioneer Polymers,IT services,3161.0,2900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-1481,Apex Electronics,Electronics,1100.0,1000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-1482,Northstar Components,Packaging,1221.0,1100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-1483,BrightPack Ltd,Logistics,1344.0,1200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-1484,RapidMove Logistics,Raw materials,1469.0,1300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-1485,Core Materials,IT services,1596.0,1400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-1486,Delta Circuits,Electronics,1725.0,1500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-1487,GreenWrap,Packaging,1856.0,1600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-1488,Metro Freight,Logistics,1989.0,1700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-1489,Nova Components,Raw materials,2124.0,1800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-1490,Pioneer Polymers,IT services,2261.0,1900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-1491,Apex Electronics,Electronics,2400.0,2000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-1492,Northstar Components,Packaging,2541.0,2100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-1493,BrightPack Ltd,Logistics,2684.0,2200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-1494,RapidMove Logistics,Raw materials,2829.0,2300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-1495,Core Materials,IT services,2976.0,2400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-1496,Delta Circuits,Electronics,3125.0,2500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-1497,GreenWrap,Packaging,3276.0,2600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-1498,Metro Freight,Logistics,3429.0,2700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-1499,Nova Components,Raw materials,3584.0,2800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-1500,Pioneer Polymers,IT services,3741.0,2900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-1501,Apex Electronics,Electronics,1000.0,1000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-1502,Northstar Components,Packaging,1111.0,1100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-1503,BrightPack Ltd,Logistics,1224.0,1200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-1504,RapidMove Logistics,Raw materials,1339.0,1300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-1505,Core Materials,IT services,1456.0,1400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-1506,Delta Circuits,Electronics,1575.0,1500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-1507,GreenWrap,Packaging,1696.0,1600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-1508,Metro Freight,Logistics,1819.0,1700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-1509,Nova Components,Raw materials,1944.0,1800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-1510,Pioneer Polymers,IT services,2071.0,1900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-1511,Apex Electronics,Electronics,2200.0,2000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-1512,Northstar Components,Packaging,2331.0,2100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-1513,BrightPack Ltd,Logistics,2464.0,2200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-1514,RapidMove Logistics,Raw materials,2599.0,2300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-1515,Core Materials,IT services,2736.0,2400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-1516,Delta Circuits,Electronics,2875.0,2500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-1517,GreenWrap,Packaging,3016.0,2600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-1518,Metro Freight,Logistics,3159.0,2700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-1519,Nova Components,Raw materials,3304.0,2800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-1520,Pioneer Polymers,IT services,3451.0,2900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-1521,Apex Electronics,Electronics,1200.0,1000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-1522,Northstar Components,Packaging,1331.0,1100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-1523,BrightPack Ltd,Logistics,1464.0,1200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-1524,RapidMove Logistics,Raw materials,1599.0,1300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-1525,Core Materials,IT services,1736.0,1400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-1526,Delta Circuits,Electronics,1875.0,1500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-1527,GreenWrap,Packaging,2016.0,1600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-1528,Metro Freight,Logistics,2159.0,1700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-1529,Nova Components,Raw materials,2304.0,1800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-1530,Pioneer Polymers,IT services,2451.0,1900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-1531,Apex Electronics,Electronics,2000.0,2000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-1532,Northstar Components,Packaging,2121.0,2100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-1533,BrightPack Ltd,Logistics,2244.0,2200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-1534,RapidMove Logistics,Raw materials,2369.0,2300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-1535,Core Materials,IT services,2496.0,2400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-1536,Delta Circuits,Electronics,2625.0,2500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-1537,GreenWrap,Packaging,2756.0,2600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-1538,Metro Freight,Logistics,2889.0,2700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-1539,Nova Components,Raw materials,3024.0,2800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-1540,Pioneer Polymers,IT services,3161.0,2900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-1541,Apex Electronics,Electronics,1100.0,1000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-1542,Northstar Components,Packaging,1221.0,1100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-1543,BrightPack Ltd,Logistics,1344.0,1200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-1544,RapidMove Logistics,Raw materials,1469.0,1300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-1545,Core Materials,IT services,1596.0,1400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-1546,Delta Circuits,Electronics,1725.0,1500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-1547,GreenWrap,Packaging,1856.0,1600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-1548,Metro Freight,Logistics,1989.0,1700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-1549,Nova Components,Raw materials,2124.0,1800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-1550,Pioneer Polymers,IT services,2261.0,1900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-1551,Apex Electronics,Electronics,2400.0,2000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-1552,Northstar Components,Packaging,2541.0,2100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-1553,BrightPack Ltd,Logistics,2684.0,2200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-1554,RapidMove Logistics,Raw materials,2829.0,2300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-1555,Core Materials,IT services,2976.0,2400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-1556,Delta Circuits,Electronics,3125.0,2500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-1557,GreenWrap,Packaging,3276.0,2600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-1558,Metro Freight,Logistics,3429.0,2700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-1559,Nova Components,Raw materials,3584.0,2800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-1560,Pioneer Polymers,IT services,3741.0,2900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-1561,Apex Electronics,Electronics,1000.0,1000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-1562,Northstar Components,Packaging,1111.0,1100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-1563,BrightPack Ltd,Logistics,1224.0,1200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-1564,RapidMove Logistics,Raw materials,1339.0,1300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-1565,Core Materials,IT services,1456.0,1400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-1566,Delta Circuits,Electronics,1575.0,1500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-1567,GreenWrap,Packaging,1696.0,1600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-1568,Metro Freight,Logistics,1819.0,1700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-1569,Nova Components,Raw materials,1944.0,1800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-1570,Pioneer Polymers,IT services,2071.0,1900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-1571,Apex Electronics,Electronics,2200.0,2000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-1572,Northstar Components,Packaging,2331.0,2100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-1573,BrightPack Ltd,Logistics,2464.0,2200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-1574,RapidMove Logistics,Raw materials,2599.0,2300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-1575,Core Materials,IT services,2736.0,2400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-1576,Delta Circuits,Electronics,2875.0,2500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-1577,GreenWrap,Packaging,3016.0,2600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-1578,Metro Freight,Logistics,3159.0,2700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-1579,Nova Components,Raw materials,3304.0,2800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-1580,Pioneer Polymers,IT services,3451.0,2900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-1581,Apex Electronics,Electronics,1200.0,1000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-1582,Northstar Components,Packaging,1331.0,1100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-1583,BrightPack Ltd,Logistics,1464.0,1200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-1584,RapidMove Logistics,Raw materials,1599.0,1300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-1585,Core Materials,IT services,1736.0,1400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-1586,Delta Circuits,Electronics,1875.0,1500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-1587,GreenWrap,Packaging,2016.0,1600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-1588,Metro Freight,Logistics,2159.0,1700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-1589,Nova Components,Raw materials,2304.0,1800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-1590,Pioneer Polymers,IT services,2451.0,1900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-1591,Apex Electronics,Electronics,2000.0,2000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-1592,Northstar Components,Packaging,2121.0,2100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-1593,BrightPack Ltd,Logistics,2244.0,2200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-1594,RapidMove Logistics,Raw materials,2369.0,2300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-1595,Core Materials,IT services,2496.0,2400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-1596,Delta Circuits,Electronics,2625.0,2500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-1597,GreenWrap,Packaging,2756.0,2600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-1598,Metro Freight,Logistics,2889.0,2700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-1599,Nova Components,Raw materials,3024.0,2800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-1600,Pioneer Polymers,IT services,3161.0,2900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-1601,Apex Electronics,Electronics,1100.0,1000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-1602,Northstar Components,Packaging,1221.0,1100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-1603,BrightPack Ltd,Logistics,1344.0,1200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-1604,RapidMove Logistics,Raw materials,1469.0,1300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-1605,Core Materials,IT services,1596.0,1400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-1606,Delta Circuits,Electronics,1725.0,1500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-1607,GreenWrap,Packaging,1856.0,1600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-1608,Metro Freight,Logistics,1989.0,1700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-1609,Nova Components,Raw materials,2124.0,1800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-1610,Pioneer Polymers,IT services,2261.0,1900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-1611,Apex Electronics,Electronics,2400.0,2000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-1612,Northstar Components,Packaging,2541.0,2100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-1613,BrightPack Ltd,Logistics,2684.0,2200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-1614,RapidMove Logistics,Raw materials,2829.0,2300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-1615,Core Materials,IT services,2976.0,2400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-1616,Delta Circuits,Electronics,3125.0,2500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-1617,GreenWrap,Packaging,3276.0,2600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-1618,Metro Freight,Logistics,3429.0,2700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-1619,Nova Components,Raw materials,3584.0,2800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-1620,Pioneer Polymers,IT services,3741.0,2900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-1621,Apex Electronics,Electronics,1000.0,1000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-1622,Northstar Components,Packaging,1111.0,1100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-1623,BrightPack Ltd,Logistics,1224.0,1200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-1624,RapidMove Logistics,Raw materials,1339.0,1300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-1625,Core Materials,IT services,1456.0,1400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-1626,Delta Circuits,Electronics,1575.0,1500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-1627,GreenWrap,Packaging,1696.0,1600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-1628,Metro Freight,Logistics,1819.0,1700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-1629,Nova Components,Raw materials,1944.0,1800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-1630,Pioneer Polymers,IT services,2071.0,1900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-1631,Apex Electronics,Electronics,2200.0,2000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-1632,Northstar Components,Packaging,2331.0,2100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-1633,BrightPack Ltd,Logistics,2464.0,2200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-1634,RapidMove Logistics,Raw materials,2599.0,2300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-1635,Core Materials,IT services,2736.0,2400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-1636,Delta Circuits,Electronics,2875.0,2500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-1637,GreenWrap,Packaging,3016.0,2600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-1638,Metro Freight,Logistics,3159.0,2700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-1639,Nova Components,Raw materials,3304.0,2800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-1640,Pioneer Polymers,IT services,3451.0,2900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-1641,Apex Electronics,Electronics,1200.0,1000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-1642,Northstar Components,Packaging,1331.0,1100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-1643,BrightPack Ltd,Logistics,1464.0,1200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-1644,RapidMove Logistics,Raw materials,1599.0,1300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-1645,Core Materials,IT services,1736.0,1400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-1646,Delta Circuits,Electronics,1875.0,1500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-1647,GreenWrap,Packaging,2016.0,1600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-1648,Metro Freight,Logistics,2159.0,1700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-1649,Nova Components,Raw materials,2304.0,1800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-1650,Pioneer Polymers,IT services,2451.0,1900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-1651,Apex Electronics,Electronics,2000.0,2000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-1652,Northstar Components,Packaging,2121.0,2100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-1653,BrightPack Ltd,Logistics,2244.0,2200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-1654,RapidMove Logistics,Raw materials,2369.0,2300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-1655,Core Materials,IT services,2496.0,2400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-1656,Delta Circuits,Electronics,2625.0,2500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-1657,GreenWrap,Packaging,2756.0,2600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-1658,Metro Freight,Logistics,2889.0,2700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-1659,Nova Components,Raw materials,3024.0,2800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-1660,Pioneer Polymers,IT services,3161.0,2900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-1661,Apex Electronics,Electronics,1100.0,1000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-1662,Northstar Components,Packaging,1221.0,1100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-1663,BrightPack Ltd,Logistics,1344.0,1200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-1664,RapidMove Logistics,Raw materials,1469.0,1300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-1665,Core Materials,IT services,1596.0,1400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-1666,Delta Circuits,Electronics,1725.0,1500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-1667,GreenWrap,Packaging,1856.0,1600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-1668,Metro Freight,Logistics,1989.0,1700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-1669,Nova Components,Raw materials,2124.0,1800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-1670,Pioneer Polymers,IT services,2261.0,1900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-1671,Apex Electronics,Electronics,2400.0,2000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-1672,Northstar Components,Packaging,2541.0,2100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-1673,BrightPack Ltd,Logistics,2684.0,2200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-1674,RapidMove Logistics,Raw materials,2829.0,2300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-1675,Core Materials,IT services,2976.0,2400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-1676,Delta Circuits,Electronics,3125.0,2500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-1677,GreenWrap,Packaging,3276.0,2600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-1678,Metro Freight,Logistics,3429.0,2700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-1679,Nova Components,Raw materials,3584.0,2800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-1680,Pioneer Polymers,IT services,3741.0,2900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-1681,Apex Electronics,Electronics,1000.0,1000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-1682,Northstar Components,Packaging,1111.0,1100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-1683,BrightPack Ltd,Logistics,1224.0,1200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-1684,RapidMove Logistics,Raw materials,1339.0,1300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-1685,Core Materials,IT services,1456.0,1400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-1686,Delta Circuits,Electronics,1575.0,1500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-1687,GreenWrap,Packaging,1696.0,1600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-1688,Metro Freight,Logistics,1819.0,1700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-1689,Nova Components,Raw materials,1944.0,1800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-1690,Pioneer Polymers,IT services,2071.0,1900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-1691,Apex Electronics,Electronics,2200.0,2000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-1692,Northstar Components,Packaging,2331.0,2100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-1693,BrightPack Ltd,Logistics,2464.0,2200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-1694,RapidMove Logistics,Raw materials,2599.0,2300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-1695,Core Materials,IT services,2736.0,2400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-1696,Delta Circuits,Electronics,2875.0,2500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-1697,GreenWrap,Packaging,3016.0,2600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-1698,Metro Freight,Logistics,3159.0,2700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-1699,Nova Components,Raw materials,3304.0,2800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-1700,Pioneer Polymers,IT services,3451.0,2900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-1701,Apex Electronics,Electronics,1200.0,1000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-1702,Northstar Components,Packaging,1331.0,1100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-1703,BrightPack Ltd,Logistics,1464.0,1200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-1704,RapidMove Logistics,Raw materials,1599.0,1300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-1705,Core Materials,IT services,1736.0,1400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-1706,Delta Circuits,Electronics,1875.0,1500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-1707,GreenWrap,Packaging,2016.0,1600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-1708,Metro Freight,Logistics,2159.0,1700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-1709,Nova Components,Raw materials,2304.0,1800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-1710,Pioneer Polymers,IT services,2451.0,1900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-1711,Apex Electronics,Electronics,2000.0,2000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-1712,Northstar Components,Packaging,2121.0,2100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-1713,BrightPack Ltd,Logistics,2244.0,2200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-1714,RapidMove Logistics,Raw materials,2369.0,2300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-1715,Core Materials,IT services,2496.0,2400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-1716,Delta Circuits,Electronics,2625.0,2500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-1717,GreenWrap,Packaging,2756.0,2600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-1718,Metro Freight,Logistics,2889.0,2700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-1719,Nova Components,Raw materials,3024.0,2800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-1720,Pioneer Polymers,IT services,3161.0,2900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-1721,Apex Electronics,Electronics,1100.0,1000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-1722,Northstar Components,Packaging,1221.0,1100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-1723,BrightPack Ltd,Logistics,1344.0,1200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-1724,RapidMove Logistics,Raw materials,1469.0,1300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-1725,Core Materials,IT services,1596.0,1400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-1726,Delta Circuits,Electronics,1725.0,1500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-1727,GreenWrap,Packaging,1856.0,1600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-1728,Metro Freight,Logistics,1989.0,1700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-1729,Nova Components,Raw materials,2124.0,1800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-1730,Pioneer Polymers,IT services,2261.0,1900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-1731,Apex Electronics,Electronics,2400.0,2000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-1732,Northstar Components,Packaging,2541.0,2100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-1733,BrightPack Ltd,Logistics,2684.0,2200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-1734,RapidMove Logistics,Raw materials,2829.0,2300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-1735,Core Materials,IT services,2976.0,2400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-1736,Delta Circuits,Electronics,3125.0,2500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-1737,GreenWrap,Packaging,3276.0,2600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-1738,Metro Freight,Logistics,3429.0,2700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-1739,Nova Components,Raw materials,3584.0,2800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-1740,Pioneer Polymers,IT services,3741.0,2900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-1741,Apex Electronics,Electronics,1000.0,1000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-1742,Northstar Components,Packaging,1111.0,1100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-1743,BrightPack Ltd,Logistics,1224.0,1200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-1744,RapidMove Logistics,Raw materials,1339.0,1300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-1745,Core Materials,IT services,1456.0,1400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-1746,Delta Circuits,Electronics,1575.0,1500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-1747,GreenWrap,Packaging,1696.0,1600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-1748,Metro Freight,Logistics,1819.0,1700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-1749,Nova Components,Raw materials,1944.0,1800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-1750,Pioneer Polymers,IT services,2071.0,1900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-1751,Apex Electronics,Electronics,2200.0,2000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-1752,Northstar Components,Packaging,2331.0,2100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-1753,BrightPack Ltd,Logistics,2464.0,2200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-1754,RapidMove Logistics,Raw materials,2599.0,2300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-1755,Core Materials,IT services,2736.0,2400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-1756,Delta Circuits,Electronics,2875.0,2500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-1757,GreenWrap,Packaging,3016.0,2600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-1758,Metro Freight,Logistics,3159.0,2700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-1759,Nova Components,Raw materials,3304.0,2800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-1760,Pioneer Polymers,IT services,3451.0,2900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-1761,Apex Electronics,Electronics,1200.0,1000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-1762,Northstar Components,Packaging,1331.0,1100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-1763,BrightPack Ltd,Logistics,1464.0,1200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-1764,RapidMove Logistics,Raw materials,1599.0,1300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-1765,Core Materials,IT services,1736.0,1400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-1766,Delta Circuits,Electronics,1875.0,1500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-1767,GreenWrap,Packaging,2016.0,1600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-1768,Metro Freight,Logistics,2159.0,1700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-1769,Nova Components,Raw materials,2304.0,1800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-1770,Pioneer Polymers,IT services,2451.0,1900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-1771,Apex Electronics,Electronics,2000.0,2000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-1772,Northstar Components,Packaging,2121.0,2100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-1773,BrightPack Ltd,Logistics,2244.0,2200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-1774,RapidMove Logistics,Raw materials,2369.0,2300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-1775,Core Materials,IT services,2496.0,2400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-1776,Delta Circuits,Electronics,2625.0,2500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-1777,GreenWrap,Packaging,2756.0,2600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-1778,Metro Freight,Logistics,2889.0,2700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-1779,Nova Components,Raw materials,3024.0,2800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-1780,Pioneer Polymers,IT services,3161.0,2900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-1781,Apex Electronics,Electronics,1100.0,1000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-1782,Northstar Components,Packaging,1221.0,1100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-1783,BrightPack Ltd,Logistics,1344.0,1200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-1784,RapidMove Logistics,Raw materials,1469.0,1300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-1785,Core Materials,IT services,1596.0,1400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-1786,Delta Circuits,Electronics,1725.0,1500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-1787,GreenWrap,Packaging,1856.0,1600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-1788,Metro Freight,Logistics,1989.0,1700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-1789,Nova Components,Raw materials,2124.0,1800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-1790,Pioneer Polymers,IT services,2261.0,1900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-1791,Apex Electronics,Electronics,2400.0,2000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-1792,Northstar Components,Packaging,2541.0,2100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-1793,BrightPack Ltd,Logistics,2684.0,2200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-1794,RapidMove Logistics,Raw materials,2829.0,2300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-1795,Core Materials,IT services,2976.0,2400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-1796,Delta Circuits,Electronics,3125.0,2500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-1797,GreenWrap,Packaging,3276.0,2600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-1798,Metro Freight,Logistics,3429.0,2700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-1799,Nova Components,Raw materials,3584.0,2800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-1800,Pioneer Polymers,IT services,3741.0,2900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-1801,Apex Electronics,Electronics,1000.0,1000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-1802,Northstar Components,Packaging,1111.0,1100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-1803,BrightPack Ltd,Logistics,1224.0,1200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-1804,RapidMove Logistics,Raw materials,1339.0,1300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-1805,Core Materials,IT services,1456.0,1400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-1806,Delta Circuits,Electronics,1575.0,1500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-1807,GreenWrap,Packaging,1696.0,1600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-1808,Metro Freight,Logistics,1819.0,1700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-1809,Nova Components,Raw materials,1944.0,1800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-1810,Pioneer Polymers,IT services,2071.0,1900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-1811,Apex Electronics,Electronics,2200.0,2000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-1812,Northstar Components,Packaging,2331.0,2100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-1813,BrightPack Ltd,Logistics,2464.0,2200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-1814,RapidMove Logistics,Raw materials,2599.0,2300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-1815,Core Materials,IT services,2736.0,2400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-1816,Delta Circuits,Electronics,2875.0,2500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-1817,GreenWrap,Packaging,3016.0,2600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-1818,Metro Freight,Logistics,3159.0,2700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-1819,Nova Components,Raw materials,3304.0,2800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-1820,Pioneer Polymers,IT services,3451.0,2900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-1821,Apex Electronics,Electronics,1200.0,1000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-1822,Northstar Components,Packaging,1331.0,1100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-1823,BrightPack Ltd,Logistics,1464.0,1200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-1824,RapidMove Logistics,Raw materials,1599.0,1300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-1825,Core Materials,IT services,1736.0,1400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-1826,Delta Circuits,Electronics,1875.0,1500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-1827,GreenWrap,Packaging,2016.0,1600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-1828,Metro Freight,Logistics,2159.0,1700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-1829,Nova Components,Raw materials,2304.0,1800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-1830,Pioneer Polymers,IT services,2451.0,1900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-1831,Apex Electronics,Electronics,2000.0,2000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-1832,Northstar Components,Packaging,2121.0,2100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-1833,BrightPack Ltd,Logistics,2244.0,2200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-1834,RapidMove Logistics,Raw materials,2369.0,2300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-1835,Core Materials,IT services,2496.0,2400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-1836,Delta Circuits,Electronics,2625.0,2500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-1837,GreenWrap,Packaging,2756.0,2600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-1838,Metro Freight,Logistics,2889.0,2700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-1839,Nova Components,Raw materials,3024.0,2800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-1840,Pioneer Polymers,IT services,3161.0,2900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-1841,Apex Electronics,Electronics,1100.0,1000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-1842,Northstar Components,Packaging,1221.0,1100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-1843,BrightPack Ltd,Logistics,1344.0,1200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-1844,RapidMove Logistics,Raw materials,1469.0,1300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-1845,Core Materials,IT services,1596.0,1400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-1846,Delta Circuits,Electronics,1725.0,1500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-1847,GreenWrap,Packaging,1856.0,1600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-1848,Metro Freight,Logistics,1989.0,1700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-1849,Nova Components,Raw materials,2124.0,1800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-1850,Pioneer Polymers,IT services,2261.0,1900,39,49,UNREVIEWED,Synthetic negotiation record
+NEG-1851,Apex Electronics,Electronics,2400.0,2000,15,50,UNREVIEWED,Synthetic negotiation record
+NEG-1852,Northstar Components,Packaging,2541.0,2100,16,51,UNREVIEWED,Synthetic negotiation record
+NEG-1853,BrightPack Ltd,Logistics,2684.0,2200,17,52,UNREVIEWED,Synthetic negotiation record
+NEG-1854,RapidMove Logistics,Raw materials,2829.0,2300,18,53,UNREVIEWED,Synthetic negotiation record
+NEG-1855,Core Materials,IT services,2976.0,2400,19,54,UNREVIEWED,Synthetic negotiation record
+NEG-1856,Delta Circuits,Electronics,3125.0,2500,20,55,UNREVIEWED,Synthetic negotiation record
+NEG-1857,GreenWrap,Packaging,3276.0,2600,21,56,UNREVIEWED,Synthetic negotiation record
+NEG-1858,Metro Freight,Logistics,3429.0,2700,22,57,UNREVIEWED,Synthetic negotiation record
+NEG-1859,Nova Components,Raw materials,3584.0,2800,23,58,UNREVIEWED,Synthetic negotiation record
+NEG-1860,Pioneer Polymers,IT services,3741.0,2900,24,59,UNREVIEWED,Synthetic negotiation record
+NEG-1861,Apex Electronics,Electronics,1000.0,1000,25,30,UNREVIEWED,Synthetic negotiation record
+NEG-1862,Northstar Components,Packaging,1111.0,1100,26,31,UNREVIEWED,Synthetic negotiation record
+NEG-1863,BrightPack Ltd,Logistics,1224.0,1200,27,32,UNREVIEWED,Synthetic negotiation record
+NEG-1864,RapidMove Logistics,Raw materials,1339.0,1300,28,33,UNREVIEWED,Synthetic negotiation record
+NEG-1865,Core Materials,IT services,1456.0,1400,29,34,UNREVIEWED,Synthetic negotiation record
+NEG-1866,Delta Circuits,Electronics,1575.0,1500,30,35,UNREVIEWED,Synthetic negotiation record
+NEG-1867,GreenWrap,Packaging,1696.0,1600,31,36,UNREVIEWED,Synthetic negotiation record
+NEG-1868,Metro Freight,Logistics,1819.0,1700,32,37,UNREVIEWED,Synthetic negotiation record
+NEG-1869,Nova Components,Raw materials,1944.0,1800,33,38,UNREVIEWED,Synthetic negotiation record
+NEG-1870,Pioneer Polymers,IT services,2071.0,1900,34,39,UNREVIEWED,Synthetic negotiation record
+NEG-1871,Apex Electronics,Electronics,2200.0,2000,35,40,UNREVIEWED,Synthetic negotiation record
+NEG-1872,Northstar Components,Packaging,2331.0,2100,36,41,UNREVIEWED,Synthetic negotiation record
+NEG-1873,BrightPack Ltd,Logistics,2464.0,2200,37,42,UNREVIEWED,Synthetic negotiation record
+NEG-1874,RapidMove Logistics,Raw materials,2599.0,2300,38,43,UNREVIEWED,Synthetic negotiation record
+NEG-1875,Core Materials,IT services,2736.0,2400,39,44,UNREVIEWED,Synthetic negotiation record
+NEG-1876,Delta Circuits,Electronics,2875.0,2500,15,45,UNREVIEWED,Synthetic negotiation record
+NEG-1877,GreenWrap,Packaging,3016.0,2600,16,46,UNREVIEWED,Synthetic negotiation record
+NEG-1878,Metro Freight,Logistics,3159.0,2700,17,47,UNREVIEWED,Synthetic negotiation record
+NEG-1879,Nova Components,Raw materials,3304.0,2800,18,48,UNREVIEWED,Synthetic negotiation record
+NEG-1880,Pioneer Polymers,IT services,3451.0,2900,19,49,UNREVIEWED,Synthetic negotiation record
+NEG-1881,Apex Electronics,Electronics,1200.0,1000,20,50,UNREVIEWED,Synthetic negotiation record
+NEG-1882,Northstar Components,Packaging,1331.0,1100,21,51,UNREVIEWED,Synthetic negotiation record
+NEG-1883,BrightPack Ltd,Logistics,1464.0,1200,22,52,UNREVIEWED,Synthetic negotiation record
+NEG-1884,RapidMove Logistics,Raw materials,1599.0,1300,23,53,UNREVIEWED,Synthetic negotiation record
+NEG-1885,Core Materials,IT services,1736.0,1400,24,54,UNREVIEWED,Synthetic negotiation record
+NEG-1886,Delta Circuits,Electronics,1875.0,1500,25,55,UNREVIEWED,Synthetic negotiation record
+NEG-1887,GreenWrap,Packaging,2016.0,1600,26,56,UNREVIEWED,Synthetic negotiation record
+NEG-1888,Metro Freight,Logistics,2159.0,1700,27,57,UNREVIEWED,Synthetic negotiation record
+NEG-1889,Nova Components,Raw materials,2304.0,1800,28,58,UNREVIEWED,Synthetic negotiation record
+NEG-1890,Pioneer Polymers,IT services,2451.0,1900,29,59,UNREVIEWED,Synthetic negotiation record
+NEG-1891,Apex Electronics,Electronics,2000.0,2000,30,30,UNREVIEWED,Synthetic negotiation record
+NEG-1892,Northstar Components,Packaging,2121.0,2100,31,31,UNREVIEWED,Synthetic negotiation record
+NEG-1893,BrightPack Ltd,Logistics,2244.0,2200,32,32,UNREVIEWED,Synthetic negotiation record
+NEG-1894,RapidMove Logistics,Raw materials,2369.0,2300,33,33,UNREVIEWED,Synthetic negotiation record
+NEG-1895,Core Materials,IT services,2496.0,2400,34,34,UNREVIEWED,Synthetic negotiation record
+NEG-1896,Delta Circuits,Electronics,2625.0,2500,35,35,UNREVIEWED,Synthetic negotiation record
+NEG-1897,GreenWrap,Packaging,2756.0,2600,36,36,UNREVIEWED,Synthetic negotiation record
+NEG-1898,Metro Freight,Logistics,2889.0,2700,37,37,UNREVIEWED,Synthetic negotiation record
+NEG-1899,Nova Components,Raw materials,3024.0,2800,38,38,UNREVIEWED,Synthetic negotiation record
+NEG-1900,Pioneer Polymers,IT services,3161.0,2900,39,39,UNREVIEWED,Synthetic negotiation record
+NEG-1901,Apex Electronics,Electronics,1100.0,1000,15,40,UNREVIEWED,Synthetic negotiation record
+NEG-1902,Northstar Components,Packaging,1221.0,1100,16,41,UNREVIEWED,Synthetic negotiation record
+NEG-1903,BrightPack Ltd,Logistics,1344.0,1200,17,42,UNREVIEWED,Synthetic negotiation record
+NEG-1904,RapidMove Logistics,Raw materials,1469.0,1300,18,43,UNREVIEWED,Synthetic negotiation record
+NEG-1905,Core Materials,IT services,1596.0,1400,19,44,UNREVIEWED,Synthetic negotiation record
+NEG-1906,Delta Circuits,Electronics,1725.0,1500,20,45,UNREVIEWED,Synthetic negotiation record
+NEG-1907,GreenWrap,Packaging,1856.0,1600,21,46,UNREVIEWED,Synthetic negotiation record
+NEG-1908,Metro Freight,Logistics,1989.0,1700,22,47,UNREVIEWED,Synthetic negotiation record
+NEG-1909,Nova Components,Raw materials,2124.0,1800,23,48,UNREVIEWED,Synthetic negotiation record
+NEG-1910,Pioneer Polymers,IT services,2261.0,1900,24,49,UNREVIEWED,Synthetic negotiation record
+NEG-1911,Apex Electronics,Electronics,2400.0,2000,25,50,UNREVIEWED,Synthetic negotiation record
+NEG-1912,Northstar Components,Packaging,2541.0,2100,26,51,UNREVIEWED,Synthetic negotiation record
+NEG-1913,BrightPack Ltd,Logistics,2684.0,2200,27,52,UNREVIEWED,Synthetic negotiation record
+NEG-1914,RapidMove Logistics,Raw materials,2829.0,2300,28,53,UNREVIEWED,Synthetic negotiation record
+NEG-1915,Core Materials,IT services,2976.0,2400,29,54,UNREVIEWED,Synthetic negotiation record
+NEG-1916,Delta Circuits,Electronics,3125.0,2500,30,55,UNREVIEWED,Synthetic negotiation record
+NEG-1917,GreenWrap,Packaging,3276.0,2600,31,56,UNREVIEWED,Synthetic negotiation record
+NEG-1918,Metro Freight,Logistics,3429.0,2700,32,57,UNREVIEWED,Synthetic negotiation record
+NEG-1919,Nova Components,Raw materials,3584.0,2800,33,58,UNREVIEWED,Synthetic negotiation record
+NEG-1920,Pioneer Polymers,IT services,3741.0,2900,34,59,UNREVIEWED,Synthetic negotiation record
+NEG-1921,Apex Electronics,Electronics,1000.0,1000,35,30,UNREVIEWED,Synthetic negotiation record
+NEG-1922,Northstar Components,Packaging,1111.0,1100,36,31,UNREVIEWED,Synthetic negotiation record
+NEG-1923,BrightPack Ltd,Logistics,1224.0,1200,37,32,UNREVIEWED,Synthetic negotiation record
+NEG-1924,RapidMove Logistics,Raw materials,1339.0,1300,38,33,UNREVIEWED,Synthetic negotiation record
+NEG-1925,Core Materials,IT services,1456.0,1400,39,34,UNREVIEWED,Synthetic negotiation record
+NEG-1926,Delta Circuits,Electronics,1575.0,1500,15,35,UNREVIEWED,Synthetic negotiation record
+NEG-1927,GreenWrap,Packaging,1696.0,1600,16,36,UNREVIEWED,Synthetic negotiation record
+NEG-1928,Metro Freight,Logistics,1819.0,1700,17,37,UNREVIEWED,Synthetic negotiation record
+NEG-1929,Nova Components,Raw materials,1944.0,1800,18,38,UNREVIEWED,Synthetic negotiation record
+NEG-1930,Pioneer Polymers,IT services,2071.0,1900,19,39,UNREVIEWED,Synthetic negotiation record
+NEG-1931,Apex Electronics,Electronics,2200.0,2000,20,40,UNREVIEWED,Synthetic negotiation record
+NEG-1932,Northstar Components,Packaging,2331.0,2100,21,41,UNREVIEWED,Synthetic negotiation record
+NEG-1933,BrightPack Ltd,Logistics,2464.0,2200,22,42,UNREVIEWED,Synthetic negotiation record
+NEG-1934,RapidMove Logistics,Raw materials,2599.0,2300,23,43,UNREVIEWED,Synthetic negotiation record
+NEG-1935,Core Materials,IT services,2736.0,2400,24,44,UNREVIEWED,Synthetic negotiation record
+NEG-1936,Delta Circuits,Electronics,2875.0,2500,25,45,UNREVIEWED,Synthetic negotiation record
+NEG-1937,GreenWrap,Packaging,3016.0,2600,26,46,UNREVIEWED,Synthetic negotiation record
+NEG-1938,Metro Freight,Logistics,3159.0,2700,27,47,UNREVIEWED,Synthetic negotiation record
+NEG-1939,Nova Components,Raw materials,3304.0,2800,28,48,UNREVIEWED,Synthetic negotiation record
+NEG-1940,Pioneer Polymers,IT services,3451.0,2900,29,49,UNREVIEWED,Synthetic negotiation record
+NEG-1941,Apex Electronics,Electronics,1200.0,1000,30,50,UNREVIEWED,Synthetic negotiation record
+NEG-1942,Northstar Components,Packaging,1331.0,1100,31,51,UNREVIEWED,Synthetic negotiation record
+NEG-1943,BrightPack Ltd,Logistics,1464.0,1200,32,52,UNREVIEWED,Synthetic negotiation record
+NEG-1944,RapidMove Logistics,Raw materials,1599.0,1300,33,53,UNREVIEWED,Synthetic negotiation record
+NEG-1945,Core Materials,IT services,1736.0,1400,34,54,UNREVIEWED,Synthetic negotiation record
+NEG-1946,Delta Circuits,Electronics,1875.0,1500,35,55,UNREVIEWED,Synthetic negotiation record
+NEG-1947,GreenWrap,Packaging,2016.0,1600,36,56,UNREVIEWED,Synthetic negotiation record
+NEG-1948,Metro Freight,Logistics,2159.0,1700,37,57,UNREVIEWED,Synthetic negotiation record
+NEG-1949,Nova Components,Raw materials,2304.0,1800,38,58,UNREVIEWED,Synthetic negotiation record
+NEG-1950,Pioneer Polymers,IT services,2451.0,1900,39,59,UNREVIEWED,Synthetic negotiation record
+NEG-1951,Apex Electronics,Electronics,2000.0,2000,15,30,UNREVIEWED,Synthetic negotiation record
+NEG-1952,Northstar Components,Packaging,2121.0,2100,16,31,UNREVIEWED,Synthetic negotiation record
+NEG-1953,BrightPack Ltd,Logistics,2244.0,2200,17,32,UNREVIEWED,Synthetic negotiation record
+NEG-1954,RapidMove Logistics,Raw materials,2369.0,2300,18,33,UNREVIEWED,Synthetic negotiation record
+NEG-1955,Core Materials,IT services,2496.0,2400,19,34,UNREVIEWED,Synthetic negotiation record
+NEG-1956,Delta Circuits,Electronics,2625.0,2500,20,35,UNREVIEWED,Synthetic negotiation record
+NEG-1957,GreenWrap,Packaging,2756.0,2600,21,36,UNREVIEWED,Synthetic negotiation record
+NEG-1958,Metro Freight,Logistics,2889.0,2700,22,37,UNREVIEWED,Synthetic negotiation record
+NEG-1959,Nova Components,Raw materials,3024.0,2800,23,38,UNREVIEWED,Synthetic negotiation record
+NEG-1960,Pioneer Polymers,IT services,3161.0,2900,24,39,UNREVIEWED,Synthetic negotiation record
+NEG-1961,Apex Electronics,Electronics,1100.0,1000,25,40,UNREVIEWED,Synthetic negotiation record
+NEG-1962,Northstar Components,Packaging,1221.0,1100,26,41,UNREVIEWED,Synthetic negotiation record
+NEG-1963,BrightPack Ltd,Logistics,1344.0,1200,27,42,UNREVIEWED,Synthetic negotiation record
+NEG-1964,RapidMove Logistics,Raw materials,1469.0,1300,28,43,UNREVIEWED,Synthetic negotiation record
+NEG-1965,Core Materials,IT services,1596.0,1400,29,44,UNREVIEWED,Synthetic negotiation record
+NEG-1966,Delta Circuits,Electronics,1725.0,1500,30,45,UNREVIEWED,Synthetic negotiation record
+NEG-1967,GreenWrap,Packaging,1856.0,1600,31,46,UNREVIEWED,Synthetic negotiation record
+NEG-1968,Metro Freight,Logistics,1989.0,1700,32,47,UNREVIEWED,Synthetic negotiation record
+NEG-1969,Nova Components,Raw materials,2124.0,1800,33,48,UNREVIEWED,Synthetic negotiation record
+NEG-1970,Pioneer Polymers,IT services,2261.0,1900,34,49,UNREVIEWED,Synthetic negotiation record
+NEG-1971,Apex Electronics,Electronics,2400.0,2000,35,50,UNREVIEWED,Synthetic negotiation record
+NEG-1972,Northstar Components,Packaging,2541.0,2100,36,51,UNREVIEWED,Synthetic negotiation record
+NEG-1973,BrightPack Ltd,Logistics,2684.0,2200,37,52,UNREVIEWED,Synthetic negotiation record
+NEG-1974,RapidMove Logistics,Raw materials,2829.0,2300,38,53,UNREVIEWED,Synthetic negotiation record
+NEG-1975,Core Materials,IT services,2976.0,2400,39,54,UNREVIEWED,Synthetic negotiation record
+NEG-1976,Delta Circuits,Electronics,3125.0,2500,15,55,UNREVIEWED,Synthetic negotiation record
+NEG-1977,GreenWrap,Packaging,3276.0,2600,16,56,UNREVIEWED,Synthetic negotiation record
+NEG-1978,Metro Freight,Logistics,3429.0,2700,17,57,UNREVIEWED,Synthetic negotiation record
+NEG-1979,Nova Components,Raw materials,3584.0,2800,18,58,UNREVIEWED,Synthetic negotiation record
+NEG-1980,Pioneer Polymers,IT services,3741.0,2900,19,59,UNREVIEWED,Synthetic negotiation record
+NEG-1981,Apex Electronics,Electronics,1000.0,1000,20,30,UNREVIEWED,Synthetic negotiation record
+NEG-1982,Northstar Components,Packaging,1111.0,1100,21,31,UNREVIEWED,Synthetic negotiation record
+NEG-1983,BrightPack Ltd,Logistics,1224.0,1200,22,32,UNREVIEWED,Synthetic negotiation record
+NEG-1984,RapidMove Logistics,Raw materials,1339.0,1300,23,33,UNREVIEWED,Synthetic negotiation record
+NEG-1985,Core Materials,IT services,1456.0,1400,24,34,UNREVIEWED,Synthetic negotiation record
+NEG-1986,Delta Circuits,Electronics,1575.0,1500,25,35,UNREVIEWED,Synthetic negotiation record
+NEG-1987,GreenWrap,Packaging,1696.0,1600,26,36,UNREVIEWED,Synthetic negotiation record
+NEG-1988,Metro Freight,Logistics,1819.0,1700,27,37,UNREVIEWED,Synthetic negotiation record
+NEG-1989,Nova Components,Raw materials,1944.0,1800,28,38,UNREVIEWED,Synthetic negotiation record
+NEG-1990,Pioneer Polymers,IT services,2071.0,1900,29,39,UNREVIEWED,Synthetic negotiation record
+NEG-1991,Apex Electronics,Electronics,2200.0,2000,30,40,UNREVIEWED,Synthetic negotiation record
+NEG-1992,Northstar Components,Packaging,2331.0,2100,31,41,UNREVIEWED,Synthetic negotiation record
+NEG-1993,BrightPack Ltd,Logistics,2464.0,2200,32,42,UNREVIEWED,Synthetic negotiation record
+NEG-1994,RapidMove Logistics,Raw materials,2599.0,2300,33,43,UNREVIEWED,Synthetic negotiation record
+NEG-1995,Core Materials,IT services,2736.0,2400,34,44,UNREVIEWED,Synthetic negotiation record
+NEG-1996,Delta Circuits,Electronics,2875.0,2500,35,45,UNREVIEWED,Synthetic negotiation record
+NEG-1997,GreenWrap,Packaging,3016.0,2600,36,46,UNREVIEWED,Synthetic negotiation record
+NEG-1998,Metro Freight,Logistics,3159.0,2700,37,47,UNREVIEWED,Synthetic negotiation record
+NEG-1999,Nova Components,Raw materials,3304.0,2800,38,48,UNREVIEWED,Synthetic negotiation record
+NEG-2000,Pioneer Polymers,IT services,3451.0,2900,39,49,UNREVIEWED,Synthetic negotiation record
